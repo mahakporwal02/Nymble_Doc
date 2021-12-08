@@ -1,0 +1,5 @@
+<map id="InductionControlPid::SetCurrentValue" name="InductionControlPid::SetCurrentValue">
+<area shape="rect" id="node1" title=" " alt="" coords="256,39,405,80"/>
+<area shape="rect" id="node2" href="$class_pid_power_controller.html#a3f5dccd2e9126710f8083bb841af1de5" title=" " alt="" coords="33,5,180,47"/>
+<area shape="rect" id="node3" href="$class_power_level_control_behavior.html#acc42ec68bee265ce8027e36d08021ab4" title=" " alt="" coords="5,71,208,112"/>
+</map>

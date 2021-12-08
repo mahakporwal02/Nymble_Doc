@@ -1,0 +1,36 @@
+<map id="cv::detail::RotationWarper" name="cv::detail::RotationWarper">
+<area shape="rect" id="node1" title="Rotation&#45;only model image warper interface." alt="" coords="5,486,196,513"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title="Base class for rotation&#45;based warper using a detail::ProjectorBase_ derived class." alt="" coords="295,5,486,47"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="257,71,525,127"/>
+<area shape="rect" id="node5" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="244,152,537,193"/>
+<area shape="rect" id="node7" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="261,217,520,259"/>
+<area shape="rect" id="node9" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="285,283,496,324"/>
+<area shape="rect" id="node12" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="295,348,487,389"/>
+<area shape="rect" id="node14" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="291,413,491,455"/>
+<area shape="rect" id="node16" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="276,479,505,520"/>
+<area shape="rect" id="node18" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="295,544,486,585"/>
+<area shape="rect" id="node20" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="277,609,504,651"/>
+<area shape="rect" id="node22" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="295,675,486,716"/>
+<area shape="rect" id="node26" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="265,740,516,781"/>
+<area shape="rect" id="node28" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="289,805,492,847"/>
+<area shape="rect" id="node31" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="275,871,507,912"/>
+<area shape="rect" id="node33" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="255,936,526,977"/>
+<area shape="rect" id="node4" href="$classcv_1_1detail_1_1_compressed_rectilinear_portrait_warper.html" title=" " alt="" coords="585,79,825,120"/>
+<area shape="rect" id="node6" href="$classcv_1_1detail_1_1_compressed_rectilinear_warper.html" title=" " alt="" coords="585,152,825,193"/>
+<area shape="rect" id="node8" href="$classcv_1_1detail_1_1_cylindrical_portrait_warper.html" title=" " alt="" coords="602,217,809,259"/>
+<area shape="rect" id="node10" href="$classcv_1_1detail_1_1_cylindrical_warper.html" title="Warper that maps an image onto the x*x + z*z = 1 cylinder." alt="" coords="603,290,807,317"/>
+<area shape="rect" id="node11" href="$classcv_1_1detail_1_1_cylindrical_warper_gpu.html" title=" " alt="" coords="873,290,1104,317"/>
+<area shape="rect" id="node13" href="$classcv_1_1detail_1_1_fisheye_warper.html" title=" " alt="" coords="613,355,798,382"/>
+<area shape="rect" id="node15" href="$classcv_1_1detail_1_1_mercator_warper.html" title=" " alt="" coords="609,421,802,447"/>
+<area shape="rect" id="node17" href="$classcv_1_1detail_1_1_panini_portrait_warper.html" title=" " alt="" coords="617,479,793,520"/>
+<area shape="rect" id="node19" href="$classcv_1_1detail_1_1_panini_warper.html" title=" " alt="" coords="618,551,793,578"/>
+<area shape="rect" id="node21" href="$classcv_1_1detail_1_1_plane_portrait_warper.html" title=" " alt="" coords="619,609,792,651"/>
+<area shape="rect" id="node23" href="$classcv_1_1detail_1_1_plane_warper.html" title="Warper that maps an image onto the z = 1 plane." alt="" coords="620,682,791,709"/>
+<area shape="rect" id="node24" href="$classcv_1_1detail_1_1_affine_warper.html" title="Affine warper that uses rotations and translations." alt="" coords="902,657,1075,683"/>
+<area shape="rect" id="node25" href="$classcv_1_1detail_1_1_plane_warper_gpu.html" title=" " alt="" coords="890,707,1087,734"/>
+<area shape="rect" id="node27" href="$classcv_1_1detail_1_1_spherical_portrait_warper.html" title=" " alt="" coords="607,740,804,781"/>
+<area shape="rect" id="node29" href="$classcv_1_1detail_1_1_spherical_warper.html" title="Warper that maps an image onto the unit sphere located at the origin." alt="" coords="608,813,803,839"/>
+<area shape="rect" id="node30" href="$classcv_1_1detail_1_1_spherical_warper_gpu.html" title=" " alt="" coords="878,813,1099,839"/>
+<area shape="rect" id="node32" href="$classcv_1_1detail_1_1_stereographic_warper.html" title=" " alt="" coords="616,871,795,912"/>
+<area shape="rect" id="node34" href="$classcv_1_1detail_1_1_transverse_mercator_warper.html" title=" " alt="" coords="597,936,814,977"/>
+</map>

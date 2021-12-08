@@ -1,0 +1,10 @@
+<map id="com.example.recipeengine.instruction.handler.cook.macrosizereduction.MacroSizeInfer.infer" name="com.example.recipeengine.instruction.handler.cook.macrosizereduction.MacroSizeInfer.infer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,500,211"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block.html#aaabc0970f691ccaa5cbbe1764e28d96e" title=" " alt="" coords="579,5,975,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block.html#a1603b92038f2a2885fae7dbf3cc5c06c" title=" " alt="" coords="579,71,975,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1capture_1_1_captured_task_data.html#a0cd21fc7672935ca882a8e5845769a10" title=" " alt="" coords="589,136,964,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1segmentation_1_1_food_segmentation.html#a8d2af3543168146f1a15237a475a92e4" title=" " alt="" coords="548,201,1005,243"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1status_1_1_u_i_data.html#aab39d27a034d1eacaad4542f0f9b0a26" title=" " alt="" coords="573,267,980,308"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1status_1_1_progress_data.html#a22583a2129126667096efe1d50a06853" title=" " alt="" coords="573,332,980,373"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1segmentation_1_1_food_segmentation.html#a3aaf7127928a6ecad1085b74cd384e84" title=" " alt="" coords="1053,201,1511,243"/>
+</map>

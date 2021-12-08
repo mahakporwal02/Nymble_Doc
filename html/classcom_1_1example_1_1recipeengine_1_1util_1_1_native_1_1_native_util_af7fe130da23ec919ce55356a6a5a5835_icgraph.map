@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.util.Native.NativeUtil.CreateThermalImage" name="com.example.recipeengine.util.Native.NativeUtil.CreateThermalImage">
+<area shape="rect" id="node1" title=" " alt="" coords="501,39,779,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_bitmap_utility.html#a38fe2e907338075af7a4a8250c940658" title=" " alt="" coords="27,5,431,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_infer.html#aef67807736045f6914598cf7d20f1319" title=" " alt="" coords="5,71,453,112"/>
+</map>

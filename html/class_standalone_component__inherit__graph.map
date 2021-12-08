@@ -1,0 +1,18 @@
+<map id="StandaloneComponent" name="StandaloneComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="151,335,321,361"/>
+<area shape="rect" id="node3" href="$class_buzzer.html" title=" " alt="" coords="419,5,486,32"/>
+<area shape="rect" id="node4" href="$class_counter.html" title=" " alt="" coords="416,56,489,83"/>
+<area shape="rect" id="node5" href="$class_digital_pot.html" title=" " alt="" coords="409,107,496,133"/>
+<area shape="rect" id="node6" href="$class_exhaust_fan.html" title=" " alt="" coords="405,157,501,184"/>
+<area shape="rect" id="node7" href="$class_exhaust_fan_counter.html" title=" " alt="" coords="379,208,526,235"/>
+<area shape="rect" id="node8" href="$class_gpio_control_input.html" title=" " alt="" coords="387,259,519,285"/>
+<area shape="rect" id="node9" href="$class_led_actuator.html" title=" " alt="" coords="403,309,503,336"/>
+<area shape="rect" id="node10" href="$class_loadcell_sensor.html" title=" " alt="" coords="393,360,513,387"/>
+<area shape="rect" id="node11" href="$class_mux_two_is_to_one.html" title=" " alt="" coords="389,411,516,437"/>
+<area shape="rect" id="node12" href="$class_oil_flow_counter.html" title=" " alt="" coords="391,461,514,488"/>
+<area shape="rect" id="node13" href="$class_temperature_feedback.html" title=" " alt="" coords="369,512,536,539"/>
+<area shape="rect" id="node14" href="$class_thermal_cam_eeprom.html" title=" " alt="" coords="375,563,531,589"/>
+<area shape="rect" id="node15" href="$class_thermal_camera.html" title=" " alt="" coords="389,613,516,640"/>
+<area shape="rect" id="node16" href="$class_water_flow_counter.html" title=" " alt="" coords="381,664,524,691"/>
+<area shape="rect" id="node2" href="$class_component.html" title=" " alt="" coords="5,335,103,361"/>
+</map>

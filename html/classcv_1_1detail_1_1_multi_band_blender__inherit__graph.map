@@ -1,0 +1,4 @@
+<map id="cv::detail::MultiBandBlender" name="cv::detail::MultiBandBlender">
+<area shape="rect" id="node1" title="Blender which uses multi&#45;band blending algorithm (see )." alt="" coords="5,80,211,107"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_blender.html" title="Base class for all blenders." alt="" coords="39,5,177,32"/>
+</map>

@@ -1,0 +1,4 @@
+var interfacesom_1_1instruction_1_1request_1_1vision_camera_1_1camera_1_1_camera_executor_1_1_device_failure_listener =
+[
+    [ "onCameraFail", "interfacesom_1_1instruction_1_1request_1_1vision_camera_1_1camera_1_1_camera_executor_1_1_device_failure_listener.html#a1a46fd6fc0b4ee1866ca57df3fbebb8f", null ]
+];

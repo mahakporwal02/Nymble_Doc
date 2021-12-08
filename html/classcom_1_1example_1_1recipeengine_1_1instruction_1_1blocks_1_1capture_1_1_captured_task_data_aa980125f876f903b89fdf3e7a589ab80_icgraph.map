@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.blocks.capture.CapturedTaskData.getSensorData" name="com.example.recipeengine.instruction.blocks.capture.CapturedTaskData.getSensorData">
+<area shape="rect" id="node1" title=" " alt="" coords="501,39,876,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1capture_1_1_captured_task_data_test.html#a4263c001b66300362d9d8387e280fc4f" title=" " alt="" coords="42,5,417,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_infer.html#aef67807736045f6914598cf7d20f1319" title=" " alt="" coords="5,71,453,112"/>
+</map>

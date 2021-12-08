@@ -1,0 +1,5 @@
+<map id="cvCeil" name="cvCeil">
+<area shape="rect" id="node1" title="Rounds floating&#45;point number to the nearest integer not smaller than the original." alt="" coords="145,31,208,57"/>
+<area shape="rect" id="node2" href="$group__core__hal__intrin.html#gabaff4ee2a4fab7233fd421a7236ac5c6" title="Ceil." alt="" coords="10,5,93,32"/>
+<area shape="rect" id="node3" href="$group__core__hal__intrin.html#gae347e0d88bcb9168f55043419b1ad6ec" title=" " alt="" coords="5,56,97,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sensor" name="sensor">
+<area shape="rect" id="node1" title="function to calculate sensor data by processing the raw data" alt="" coords="5,5,71,32"/>
+<area shape="rect" id="node2" href="$thermalcameradriver__new_8cpp.html#ab970eaf86daac2725f45b072f9028d25" title="function for concatinating two bytes using little endian" alt="" coords="119,5,169,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="com.example.recipeengine.util.debug.ComponentListFragment.create" name="com.example.recipeengine.util.debug.ComponentListFragment.create">
+<area shape="rect" id="node1" title=" " alt="" coords="389,332,661,373"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_camera_debug_fragment.html#aa053089bd0c16725dd404da1956c530b" title=" " alt="" coords="5,5,341,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_micro_debug_fragment.html#a24adc2ca61e0a3800b5054fb07c6ab3f" title=" " alt="" coords="5,71,341,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_led_buzzer_debug_fragment.html#a752a1a750f9616dce6c717dfc6b53f97" title=" " alt="" coords="5,136,341,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_device_controls_debug_fragment.html#a7294a61e8c4850afd10c537963386923" title=" " alt="" coords="5,201,341,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_macro_debug_fragment.html#af8a6ec7d5f020a73a14b4c59d90f0d5d" title=" " alt="" coords="5,267,341,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_induction_debug_fragment.html#a9d2ddfd8c166d6be5298772843248f09" title=" " alt="" coords="5,332,341,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_cb_debug_fragment.html#afecb503cc907146aa1bb4f3656fb7b4b" title=" " alt="" coords="5,397,341,439"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_system_debug_fragment.html#ac5777709fd99c1bd65a4d2cb730a0684" title=" " alt="" coords="5,463,341,504"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_eeprom_debug_fragment.html#a8df8ac0f8d8278ead80be83035d468b6" title=" " alt="" coords="5,528,341,569"/>
+<area shape="rect" id="node11" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_stir_liq_fan_debug_fragment.html#a1b8f5782a07575b42906c16d5abd96de" title=" " alt="" coords="5,593,341,635"/>
+<area shape="rect" id="node12" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1debug_1_1fragment_1_1_commands_debug_fragment.html#a41b78a9e72d73e7cd6681c4ea09dbf3e" title=" " alt="" coords="5,659,341,700"/>
+</map>

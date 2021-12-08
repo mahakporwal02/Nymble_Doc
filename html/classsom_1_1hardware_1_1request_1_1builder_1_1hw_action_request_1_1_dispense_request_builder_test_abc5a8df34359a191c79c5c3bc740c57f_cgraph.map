@@ -1,0 +1,11 @@
+<map id="som.hardware.request.builder.hwActionRequest.DispenseRequestBuilderTest.buildDispenseRequest_HWRequestType" name="som.hardware.request.builder.hwActionRequest.DispenseRequestBuilderTest.buildDispenseRequest_HWRequestType">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,316,225"/>
+<area shape="rect" id="node2" href="$classsom_1_1hardware_1_1request_1_1builder_1_1hw_action_request_1_1_dispense_request_builder.html#acb25df5d8489c6e5c2ea14b6fc113949" title=" " alt="" coords="364,30,679,86"/>
+<area shape="rect" id="node6" href="$classsom_1_1hardware_1_1request_1_1_h_w_request.html#a1baaf8e3f7828b92339db428c56c7d2f" title=" " alt="" coords="385,111,658,152"/>
+<area shape="rect" id="node7" href="$classsom_1_1instruction_1_1request_1_1_request.html#af70f40d6ebadb1ead7c4b18150d175ba" title=" " alt="" coords="431,176,611,217"/>
+<area shape="rect" id="node8" href="$classsom_1_1instruction_1_1request_1_1dispense_1_1_dispense.html#a8b362fc46d4f7afd86f8523c565dad05" title=" " alt="" coords="400,241,643,283"/>
+<area shape="rect" id="node9" href="$classsom_1_1instruction_1_1request_1_1dispense_1_1_dispense.html#a52f6ed3b9641b48a6c94e540addb27f6" title=" " alt="" coords="400,307,643,348"/>
+<area shape="rect" id="node3" href="$classsom_1_1hardware_1_1message_1_1action_1_1_action_request.html#a5ad5850d6cdb4a32a602fc2937e74efd" title=" " alt="" coords="727,5,981,47"/>
+<area shape="rect" id="node5" href="$classsom_1_1hardware_1_1request_1_1_h_w_action_request.html#a37251a2886ae53cad6536b7742f16241" title=" " alt="" coords="737,71,971,112"/>
+<area shape="rect" id="node4" href="$classsom_1_1hardware_1_1message_1_1_h_w_message.html#aab222e269c445177d87a91fff8c63779" title=" " alt="" coords="1029,5,1316,47"/>
+</map>

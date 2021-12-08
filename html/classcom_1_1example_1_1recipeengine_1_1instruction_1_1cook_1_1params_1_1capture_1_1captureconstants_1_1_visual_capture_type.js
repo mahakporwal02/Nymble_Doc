@@ -1,0 +1,6 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1captureconstants_1_1_visual_capture_type =
+[
+    [ "AnnotationVisualCaptureType", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1capturecoec9fd1735b97f8cd6ddb611c4adaa20c.html", null ],
+    [ "VisualCaptureType", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1captureconstants_1_1_visual_capture_type.html#aa96dd1117a492febaf2ab569c1738975", null ],
+    [ "getVisualCaptureType", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1captureconstants_1_1_visual_capture_type.html#a50a0a9e919b64b74c2b22269cb8d4a9c", null ]
+];

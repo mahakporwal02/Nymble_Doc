@@ -1,0 +1,8 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1infer_1_1_ingredient_segmentation =
+[
+    [ "IngredientSegmentation", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1infer_1_1_ingredient_segmentation.html#a6eb53db34a5a620a0cff9d62254a7ef7", null ],
+    [ "close", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1infer_1_1_ingredient_segmentation.html#a840ba8f1c80cd670bed070f84b5baa81", null ],
+    [ "fetchModelFile", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1infer_1_1_ingredient_segmentation.html#a239dfb6f714113f69fd546936cf76c07", null ],
+    [ "loadModel", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1infer_1_1_ingredient_segmentation.html#a2e8eb75d18b53082df64c79f4229f994", null ],
+    [ "runSegmentation", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1infer_1_1_ingredient_segmentation.html#ada475613a922a4d6551f73fdefd541e7", null ]
+];

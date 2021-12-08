@@ -1,0 +1,4 @@
+<map id="cv::detail::FeatherBlender" name="cv::detail::FeatherBlender">
+<area shape="rect" id="node1" title="Simple blender which mixes images at its borders." alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_blender.html" title="Base class for all blenders." alt="" coords="30,5,169,32"/>
+</map>

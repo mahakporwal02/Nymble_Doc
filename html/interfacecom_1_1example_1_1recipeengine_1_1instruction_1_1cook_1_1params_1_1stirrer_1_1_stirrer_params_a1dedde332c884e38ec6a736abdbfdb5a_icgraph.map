@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.cook.params.stirrer.StirrerParams.getCycleDurationSeconds" name="com.example.recipeengine.instruction.cook.params.stirrer.StirrerParams.getCycleDurationSeconds">
+<area shape="rect" id="node1" title=" " alt="" coords="884,39,1291,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_profile_test.html#adb3dd2aa52064a260e9af3851ff14b74" title=" " alt="" coords="429,5,836,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator.html#af975a9e1ddaacd616316a86ae496365c" title=" " alt="" coords="445,71,821,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator_test.html#a4fb04326965788620b727408b6c392ae" title=" " alt="" coords="5,71,381,112"/>
+</map>

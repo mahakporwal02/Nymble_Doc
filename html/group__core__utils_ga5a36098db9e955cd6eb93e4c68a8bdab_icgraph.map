@@ -1,0 +1,12 @@
+<map id="cvRound" name="cvRound">
+<area shape="rect" id="node1" title="Rounds floating&#45;point number to the nearest integer." alt="" coords="349,234,428,260"/>
+<area shape="rect" id="node2" href="$group__imgproc__c.html#gad870859764211611926d13a0cead740f" title=" " alt="" coords="5,19,111,46"/>
+<area shape="rect" id="node3" href="$group__core__c.html#ga94ef665f47823a9d6197282cf89f8d73" title=" " alt="" coords="168,44,292,71"/>
+<area shape="rect" id="node4" href="$group__core__utils.html#ga1a5050131186e264491ea0be777a58cf" title=" " alt="" coords="159,96,301,137"/>
+<area shape="rect" id="node5" href="$group__core__utils.html#ga9b9d98b74d781bb70b46c67cd70173f4" title=" " alt="" coords="159,161,301,202"/>
+<area shape="rect" id="node6" href="$group__core__utils.html#ga5cc3558b1356e57f382e09f301c05267" title=" " alt="" coords="159,226,301,268"/>
+<area shape="rect" id="node7" href="$group__core__utils.html#gaaed1e14390c69784007a94d6e71482a1" title=" " alt="" coords="159,292,301,333"/>
+<area shape="rect" id="node8" href="$group__core__utils.html#gaade231f022e1047fc12d90239a39acc6" title=" " alt="" coords="159,357,301,398"/>
+<area shape="rect" id="node9" href="$group__core__utils.html#ga8bbab11fa8e18035cc061261256f8fe6" title=" " alt="" coords="159,422,301,464"/>
+<area shape="rect" id="node10" href="$group__core__hal__intrin.html#ga10e8380a09690c5c2de2dafbf1b8e326" title="Round." alt="" coords="182,488,278,515"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.dispense.BaseDispense" name="com.example.recipeengine.instruction.dispense.BaseDispense">
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,344,255"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1_instruction.html" title=" " alt="" coords="71,109,278,165"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1adaptor_1_1_adaptor.html" title=" " alt="" coords="71,5,278,61"/>
+</map>

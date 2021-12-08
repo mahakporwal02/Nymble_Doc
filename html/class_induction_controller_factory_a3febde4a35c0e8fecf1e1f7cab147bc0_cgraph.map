@@ -1,0 +1,8 @@
+<map id="InductionControllerFactory::GetInductionController" name="InductionControllerFactory::GetInductionController">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,199,80"/>
+<area shape="rect" id="node2" href="$class_control_input_processor_factory.html#a7bdeaef0bf6c0e592955ca91a1064f2e" title=" " alt="" coords="250,5,462,47"/>
+<area shape="rect" id="node3" href="$class_induction_state_machine_factory.html#af97f5f30b9a70777fcd82578eb4a1d81" title=" " alt="" coords="247,71,465,112"/>
+<area shape="rect" id="node4" href="$class_error_detector_factory.html#a37c525cdd424ae8082d4a23dc1858189" title=" " alt="" coords="522,5,678,47"/>
+<area shape="rect" id="node5" href="$class_error_resolver_factory.html#ab21c0d805d3f688972dab92386f18c1d" title=" " alt="" coords="521,71,679,112"/>
+<area shape="rect" id="node6" href="$class_power_controller_factory.html#a12ac3318207dd4534e60fe1c80db77b6" title=" " alt="" coords="513,136,687,177"/>
+</map>

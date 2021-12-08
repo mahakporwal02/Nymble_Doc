@@ -1,0 +1,12 @@
+<map id="cv::softdouble::fromRaw" name="cv::softdouble::fromRaw">
+<area shape="rect" id="node1" title="Construct from raw." alt="" coords="221,208,400,235"/>
+<area shape="rect" id="node2" href="$group__core__utils__softfloat.html#ga94978663ce70a161bf9c6fa1a35143b0" title="Difference between 1 and next representable value." alt="" coords="18,5,161,32"/>
+<area shape="rect" id="node3" href="$group__core__utils__softfloat.html#gaba94cc346d1335477ad937508cf280df" title="Get a fraction part." alt="" coords="5,56,173,83"/>
+<area shape="rect" id="node4" href="$group__core__utils__softfloat.html#gadd37b1cc59a301a3e1b269ade244712c" title="Positive infinity constant." alt="" coords="21,107,158,133"/>
+<area shape="rect" id="node5" href="$group__core__utils__softfloat.html#ga3d08b6f078ecee3862aeb01bdf0ba8b9" title="Biggest finite value." alt="" coords="15,157,164,184"/>
+<area shape="rect" id="node6" href="$group__core__utils__softfloat.html#ga9a426dcd6be0bd77995b636fe291e6d0" title="Smallest normalized value." alt="" coords="17,208,162,235"/>
+<area shape="rect" id="node7" href="$group__core__utils__softfloat.html#gaf4177737a51195afed3c96b008c479b5" title="Default NaN constant." alt="" coords="17,259,161,285"/>
+<area shape="rect" id="node8" href="$group__core__utils__softfloat.html#ga87203f2a67ddb911cc8cbb8984a8c7e6" title="One constant." alt="" coords="17,309,161,336"/>
+<area shape="rect" id="node9" href="$group__core__utils__softfloat.html#ga41255205b005025756f29372d0ad8cb3" title="Correct pi approximation." alt="" coords="23,360,155,387"/>
+<area shape="rect" id="node10" href="$group__core__utils__softfloat.html#ga66d91d22d0547c9723add6e2d3cec806" title="Zero constant." alt="" coords="15,411,163,437"/>
+</map>

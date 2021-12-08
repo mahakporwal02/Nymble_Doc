@@ -1,0 +1,5 @@
+<map id="Camera Calibration and 3D Reconstruction" name="Camera Calibration and 3D Reconstruction">
+<area shape="rect" id="node1" title="The functions in this section use a so&#45;called pinhole camera model. In this model,..." alt="" coords="5,23,179,63"/>
+<area shape="rect" id="node2" href="$group__calib3d__c.html" title=" " alt="" coords="284,5,340,31"/>
+<area shape="rect" id="node3" href="$group__calib3d__fisheye.html" title="Definitions: Let P be a point in 3D of coordinates X in the world reference frame (stored in the matr..." alt="" coords="227,55,397,80"/>
+</map>

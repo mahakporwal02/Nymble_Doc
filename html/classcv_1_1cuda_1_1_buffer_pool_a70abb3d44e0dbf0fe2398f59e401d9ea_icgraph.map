@@ -1,0 +1,3 @@
+<map id="cv::cuda::BufferPool::getBuffer" name="cv::cuda::BufferPool::getBuffer">
+<area shape="rect" id="node1" title="Allocates a new GpuMat of given size and type." alt="" coords="5,29,156,71"/>
+</map>

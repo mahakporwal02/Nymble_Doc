@@ -1,0 +1,13 @@
+<map id="com.example.recipeengine.instruction.blocks.InstructionHandler" name="com.example.recipeengine.instruction.blocks.InstructionHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="376,235,699,276"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler.html" title=" " alt="" coords="760,201,1159,243"/>
+<area shape="rect" id="node11" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_dispense_handler.html" title=" " alt="" coords="747,267,1172,308"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_execution_block.html" title=" " alt="" coords="5,235,328,276"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1boiling_1_1_boiling_cooking_handler.html" title=" " alt="" coords="1262,5,1673,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1consistency_1_1_consistency_cooking_handler.html" title=" " alt="" coords="1246,71,1689,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1_dry_wet_cooking_handler.html" title=" " alt="" coords="1261,136,1673,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler.html" title=" " alt="" coords="1265,201,1670,243"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler.html" title=" " alt="" coords="1220,267,1715,308"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_handler.html" title=" " alt="" coords="1243,332,1691,373"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1wattage_1_1_wattage_handler.html" title=" " alt="" coords="1257,397,1677,439"/>
+</map>

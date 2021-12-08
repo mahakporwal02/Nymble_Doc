@@ -1,0 +1,52 @@
+<map id="app/src/main/jniIncludes/opencv2/core/hal/intrin_msa.hpp" name="app/src/main/jniIncludes/opencv2/core/hal/intrin_msa.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,185,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="75,707,161,733"/>
+<area shape="rect" id="node3" href="$utility_8hpp.html" title=" " alt="" coords="340,109,517,136"/>
+<area shape="rect" id="node4" href="$core_8hpp.html" title=" " alt="" coords="817,184,955,211"/>
+<area shape="rect" id="node46" title=" " alt="" coords="84,333,160,360"/>
+<area shape="rect" id="node49" title=" " alt="" coords="336,184,423,211"/>
+<area shape="rect" id="node50" title=" " alt="" coords="447,184,511,211"/>
+<area shape="rect" id="node5" href="$cvdef_8h.html" title=" " alt="" coords="1295,781,1455,808"/>
+<area shape="rect" id="node13" href="$core_2version_8hpp.html" title=" " alt="" coords="1715,259,1905,285"/>
+<area shape="rect" id="node14" href="$base_8hpp.html" title=" " alt="" coords="728,557,900,584"/>
+<area shape="rect" id="node17" href="$cvstd_8hpp.html" title=" " alt="" coords="169,632,345,659"/>
+<area shape="rect" id="node30" href="$traits_8hpp.html" title=" " alt="" coords="924,557,1099,584"/>
+<area shape="rect" id="node31" href="$matx_8hpp.html" title=" " alt="" coords="976,483,1151,509"/>
+<area shape="rect" id="node34" href="$types_8hpp.html" title=" " alt="" coords="1112,408,1289,435"/>
+<area shape="rect" id="node38" href="$mat_8hpp.html" title=" " alt="" coords="680,333,847,360"/>
+<area shape="rect" id="node41" href="$persistence_8hpp.html" title=" " alt="" coords="851,259,1067,285"/>
+<area shape="rect" id="node42" href="$operations_8hpp.html" title=" " alt="" coords="1142,259,1353,285"/>
+<area shape="rect" id="node44" href="$cvstd_8inl_8hpp.html" title=" " alt="" coords="140,259,336,285"/>
+<area shape="rect" id="node47" href="$optim_8hpp.html" title=" " alt="" coords="1377,259,1555,285"/>
+<area shape="rect" id="node48" href="$ovx_8hpp.html" title=" " alt="" coords="1475,408,1641,435"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1489,856,1560,883"/>
+<area shape="rect" id="node7" href="$core_2hal_2interface_8h.html" title=" " alt="" coords="961,856,1168,883"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1148,931,1219,957"/>
+<area shape="rect" id="node10" href="$cv__cpu__dispatch_8h.html" title=" " alt="" coords="1243,856,1385,883"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1409,856,1465,883"/>
+<area shape="rect" id="node12" href="$fast__math_8hpp.html" title=" " alt="" coords="1584,856,1791,883"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1027,931,1102,957"/>
+<area shape="rect" id="node15" href="$opencv__modules_8hpp.html" title=" " alt="" coords="369,632,587,659"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1371,632,1438,659"/>
+<area shape="rect" id="node27" href="$neon__utils_8hpp.html" title=" " alt="" coords="611,632,819,659"/>
+<area shape="rect" id="node28" href="$vsx__utils_8hpp.html" title=" " alt="" coords="844,632,1043,659"/>
+<area shape="rect" id="node29" href="$check_8hpp.html" title=" " alt="" coords="1067,632,1246,659"/>
+<area shape="rect" id="node18" title=" " alt="" coords="236,707,307,733"/>
+<area shape="rect" id="node19" title=" " alt="" coords="331,707,398,733"/>
+<area shape="rect" id="node20" title=" " alt="" coords="423,707,488,733"/>
+<area shape="rect" id="node21" title=" " alt="" coords="443,781,502,808"/>
+<area shape="rect" id="node22" title=" " alt="" coords="681,707,741,733"/>
+<area shape="rect" id="node23" title=" " alt="" coords="765,707,831,733"/>
+<area shape="rect" id="node24" title=" " alt="" coords="855,707,917,733"/>
+<area shape="rect" id="node25" href="$cvstd__wrapper_8hpp.html" title=" " alt="" coords="513,707,657,733"/>
+<area shape="rect" id="node26" title=" " alt="" coords="104,781,196,808"/>
+<area shape="rect" id="node32" href="$saturate_8hpp.html" title=" " alt="" coords="1715,707,1910,733"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1123,557,1233,584"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1309,483,1367,509"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1392,483,1455,509"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1175,483,1234,509"/>
+<area shape="rect" id="node39" href="$bufferpool_8hpp.html" title=" " alt="" coords="825,408,1032,435"/>
+<area shape="rect" id="node40" href="$mat_8inl_8hpp.html" title=" " alt="" coords="614,408,801,435"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1217,333,1278,360"/>
+<area shape="rect" id="node45" title=" " alt="" coords="199,333,277,360"/>
+</map>

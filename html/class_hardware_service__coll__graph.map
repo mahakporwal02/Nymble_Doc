@@ -1,0 +1,13 @@
+<map id="HardwareService" name="HardwareService">
+<area shape="rect" id="node1" title=" " alt="" coords="707,133,840,160"/>
+<area shape="rect" id="node2" href="$class_base_hardware_service.html" title=" " alt="" coords="321,5,487,32"/>
+<area shape="rect" id="node3" href="$class_induction_controller.html" title=" " alt="" coords="331,56,477,83"/>
+<area shape="rect" id="node4" href="$class_i2_c.html" title=" " alt="" coords="383,107,425,133"/>
+<area shape="rect" id="node5" href="$class_i2_c_bus.html" title=" " alt="" coords="118,107,185,133"/>
+<area shape="rect" id="node6" href="$class_gpio_request_processor.html" title=" " alt="" coords="320,157,488,184"/>
+<area shape="rect" id="node7" href="$class_s_o_m___gpio.html" title=" " alt="" coords="107,157,196,184"/>
+<area shape="rect" id="node8" href="$class_gpio.html" title=" " alt="" coords="5,184,57,211"/>
+<area shape="rect" id="node9" href="$class_pca9535.html" title=" " alt="" coords="113,208,190,235"/>
+<area shape="rect" id="node10" href="$class_pwm_request_processor.html" title=" " alt="" coords="319,208,489,235"/>
+<area shape="rect" id="node11" href="$class_adc_request_processor.html" title=" " alt="" coords="323,259,485,285"/>
+</map>

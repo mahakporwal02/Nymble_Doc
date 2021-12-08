@@ -1,0 +1,7 @@
+<map id="cv::dnn::BaseConvolutionLayer" name="cv::dnn::BaseConvolutionLayer">
+<area shape="rect" id="node1" title=" " alt="" coords="118,155,305,196"/>
+<area shape="rect" id="node4" href="$classcv_1_1dnn_1_1_convolution_layer.html" title=" " alt="" coords="5,244,196,271"/>
+<area shape="rect" id="node5" href="$classcv_1_1dnn_1_1_deconvolution_layer.html" title=" " alt="" coords="220,244,427,271"/>
+<area shape="rect" id="node2" href="$classcv_1_1dnn_1_1_layer.html" title="This interface class allows to build new Layers &#45; are building blocks of networks." alt="" coords="155,80,267,107"/>
+<area shape="rect" id="node3" href="$classcv_1_1_algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="157,5,265,32"/>
+</map>

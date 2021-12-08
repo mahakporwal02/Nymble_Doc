@@ -1,0 +1,5 @@
+<map id="cv::FileStorage::isOpened" name="cv::FileStorage::isOpened">
+<area shape="rect" id="node1" title="Checks whether the file is opened." alt="" coords="256,31,443,57"/>
+<area shape="rect" id="node2" href="$classcv_1_1_algorithm.html#a623841c33b58ea9c4847da04607e067b" title="Loads algorithm from the file." alt="" coords="35,5,179,32"/>
+<area shape="rect" id="node3" href="$classcv_1_1_file_storage.html#a84431fd1b5075275f5c3407dc58b36ae" title="Writes data to a file storage." alt="" coords="5,56,208,83"/>
+</map>

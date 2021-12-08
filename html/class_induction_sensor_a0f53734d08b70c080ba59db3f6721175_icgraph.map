@@ -1,0 +1,4 @@
+<map id="InductionSensor::GetInputVoltage" name="InductionSensor::GetInputVoltage">
+<area shape="rect" id="node1" title=" " alt="" coords="200,5,391,47"/>
+<area shape="rect" id="node2" href="$class_pid_power_controller.html#a3f5dccd2e9126710f8083bb841af1de5" title=" " alt="" coords="5,5,152,47"/>
+</map>

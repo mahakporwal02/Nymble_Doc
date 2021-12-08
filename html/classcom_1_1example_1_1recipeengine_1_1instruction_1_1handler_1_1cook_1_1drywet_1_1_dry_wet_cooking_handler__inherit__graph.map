@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.handler.cook.drywet.DryWetCookingHandler" name="com.example.recipeengine.instruction.handler.cook.drywet.DryWetCookingHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,273,417,315"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler.html" title=" " alt="" coords="12,184,411,225"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_instruction_handler.html" title=" " alt="" coords="50,95,373,136"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_execution_block.html" title=" " alt="" coords="50,5,373,47"/>
+</map>

@@ -1,0 +1,5 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_handler =
+[
+    [ "TemperatureHandler", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_handler.html#aa50a4d1693968ce0d5ef36812d0b10bd", null ],
+    [ "getStatus", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_handler.html#a9ffb360b11add0394bb5bb45cb0d0714", null ]
+];

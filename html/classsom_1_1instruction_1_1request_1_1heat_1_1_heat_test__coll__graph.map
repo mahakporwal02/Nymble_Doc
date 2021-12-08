@@ -1,0 +1,8 @@
+<map id="som.instruction.request.heat.HeatTest" name="som.instruction.request.heat.HeatTest">
+<area shape="rect" id="node1" title=" " alt="" coords="331,303,544,344"/>
+<area shape="rect" id="node2" href="$classsom_1_1instruction_1_1request_1_1heat_1_1_heat.html" title=" " alt="" coords="233,213,477,240"/>
+<area shape="rect" id="node3" href="$classsom_1_1instruction_1_1request_1_1_request.html" title=" " alt="" coords="238,109,418,151"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,13,203,39"/>
+<area shape="rect" id="node5" href="$enumsom_1_1instruction_1_1request_1_1_request_type.html" title=" " alt="" coords="227,5,407,47"/>
+<area shape="rect" id="node6" href="$classsom_1_1instruction_1_1handler_1_1_instruction_handler.html" title=" " alt="" coords="432,5,611,47"/>
+</map>

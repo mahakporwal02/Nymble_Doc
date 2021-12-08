@@ -1,0 +1,12 @@
+<map id="com.example.recipeengine.instruction.cookmodules.CookParamsModuleHelper.resolveWeightCaptureTask" name="com.example.recipeengine.instruction.cookmodules.CookParamsModuleHelper.resolveWeightCaptureTask">
+<area shape="rect" id="node1" title=" " alt="" coords="2139,71,2509,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#af692f3a1d352cf96cb882c4c3faf8a35" title=" " alt="" coords="1704,71,2091,112"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a2edddb9b8eaba65b5b9afc7178218bc2" title=" " alt="" coords="1269,71,1656,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#af638e0c5358b592799e9b0b98570adf3" title=" " alt="" coords="835,5,1221,47"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a52d51263c944938c5883b419f5c5b076" title=" " alt="" coords="835,71,1221,112"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a3b1e5448e6f98c6ba3ac7c29cd94de7a" title=" " alt="" coords="835,136,1221,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_dispense_block_builder.html#a8300c9ab888f9b0e23cf43b56f6cb225" title=" " alt="" coords="420,5,787,47"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_dispense_info_factory.html#a9272116cdbf642b52e58eee773f7eeb5" title=" " alt="" coords="5,71,372,112"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_post_dispense_block_builder.html#a798b84e461f3d4158de20529bdcbe592" title=" " alt="" coords="420,71,787,112"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_pre_dispense_block_builder.html#a7fd4eaa9f35f77f000f2a595f6f9e488" title=" " alt="" coords="420,136,787,177"/>
+</map>

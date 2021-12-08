@@ -1,0 +1,26 @@
+var food_detect_8hpp =
+[
+    [ "kMean", "structk_mean.html", "structk_mean" ],
+    [ "FONT_SCALE", "food_detect_8hpp.html#a3943979133de3f5a323227e4b3afcbfb", null ],
+    [ "FONT_THICKNESS", "food_detect_8hpp.html#a05ce92c234cd2a51db4bf620e940006d", null ],
+    [ "FRAME_SIZE", "food_detect_8hpp.html#af9b1b2ba12857a4bf11289dac8c5462d", null ],
+    [ "KMEANS_FRAME_SIZE", "food_detect_8hpp.html#a57b9f60293f507c3f4baa3186efe0dbb", null ],
+    [ "argMin", "food_detect_8hpp.html#a49f2885f3dce708d76c431c5e3f85fe2", null ],
+    [ "calcStandardDeviation", "food_detect_8hpp.html#afd3a905692196f2fcb5c97d83225a802", null ],
+    [ "CreateThermalImage", "food_detect_8hpp.html#adb664913f87e4962a47f202c9f1ef32b", null ],
+    [ "filterAndCalculateMean", "food_detect_8hpp.html#a1a934071d055a16103a06f2fd22cd907", null ],
+    [ "getImage", "food_detect_8hpp.html#a99106e1e1b60eff3acdf9bee6582ac1f", null ],
+    [ "initializeMeans", "food_detect_8hpp.html#adc6bf1200ea8b2e01a364d180f88d048", null ],
+    [ "PopulateThermalImage", "food_detect_8hpp.html#a9a0c4f4a7ec22142e85fc4cf7347d6ec", null ],
+    [ "resetkMean", "food_detect_8hpp.html#a63f0a3f9416adedaa998e773b8b3e80e", null ],
+    [ "resetkMeanArray", "food_detect_8hpp.html#ad8e97252961fa4ff16c617cca345cee3", null ],
+    [ "sanityCheck", "food_detect_8hpp.html#a09ac356fd916a1c018e71fe5b0b0698b", null ],
+    [ "smallestMean", "food_detect_8hpp.html#a9601fc6518e1a05b52b3ff185e36c5be", null ],
+    [ "croppedThermal", "food_detect_8hpp.html#a981789940807219831f92cd8a3f8c4d6", null ],
+    [ "foodPixels", "food_detect_8hpp.html#ad3e891f1406646bfb2451cc2638d1f74", null ],
+    [ "img_gray", "food_detect_8hpp.html#acd86271c0f63bda978365c115487100b", null ],
+    [ "lastTemperature", "food_detect_8hpp.html#a054143ea788b3b8128a26fae6d48eba1", null ],
+    [ "mean", "group__core__c.html#gad090d0faa53f44e0377c8d63dab3fa20", null ],
+    [ "standardDeviation", "food_detect_8hpp.html#ad09c2d9e6336c4888aa7810b8ade52b4", null ],
+    [ "thermalImage", "food_detect_8hpp.html#a7127aef979af3e03149011166773bf93", null ]
+];

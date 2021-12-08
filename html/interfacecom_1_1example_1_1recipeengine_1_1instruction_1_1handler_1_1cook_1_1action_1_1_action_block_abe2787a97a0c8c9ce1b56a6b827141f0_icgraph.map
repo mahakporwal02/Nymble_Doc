@@ -1,0 +1,11 @@
+<map id="com.example.recipeengine.instruction.handler.cook.action.ActionBlock.getRemainingTimeSec" name="com.example.recipeengine.instruction.handler.cook.action.ActionBlock.getRemainingTimeSec">
+<area shape="rect" id="node1" title=" " alt="" coords="987,104,1393,145"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1boiling_1_1_boiling_cooking_handler.html#ac10ca27bc312af725c8ef8335951fa93" title=" " alt="" coords="512,5,923,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler.html#a9792c4db82253bb22d9f73cf4be4b65c" title=" " alt="" coords="515,71,920,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1_dry_wet_cooking_handler.html#a27eccb606d4e5bf9ff4ed8b34e0c6856" title=" " alt="" coords="511,136,923,177"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1consistency_1_1_consistency_cooking_handler.html#a3267a0fa4f1dace29436d674ec13b0b8" title=" " alt="" coords="496,201,939,243"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1boiling_1_1_boiling_cooking_handler_test.html#a602b8b2e7cf4bc925c773ed901122c15" title=" " alt="" coords="21,5,432,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler_test.html#a4e80b86069f9c0cc2ba4a1e65c69b11b" title=" " alt="" coords="24,71,429,112"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1_dry_wet_cooking_handler_test.html#ae9c7cb8bdc15926322287d724ccad814" title=" " alt="" coords="21,136,433,177"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1consistency_1_1_consistency_cooking_handler_test.html#a9236de28524c60d0bb77d9fe47a0f1b3" title=" " alt="" coords="5,201,448,243"/>
+</map>

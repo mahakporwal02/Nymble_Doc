@@ -1,0 +1,8 @@
+<map id="ComponentRequest::GetQuantity" name="ComponentRequest::GetQuantity">
+<area shape="rect" id="node1" title=" " alt="" coords="299,143,536,170"/>
+<area shape="rect" id="node2" href="$class_stirrer_time_based_sequence.html#af8d07fb6990cc13180c6eb798f019b9c" title=" " alt="" coords="29,5,227,47"/>
+<area shape="rect" id="node3" href="$class_micro_clockwise_dispense_behavior.html#a911e217e1f305bacfd8dde8684ef34a7" title=" " alt="" coords="7,71,249,112"/>
+<area shape="rect" id="node4" href="$class_macro_liquid_dispense_behavior.html#af3d124d3604fa07a238bc98898ad117a" title=" " alt="" coords="19,136,237,177"/>
+<area shape="rect" id="node5" href="$class_macro_non_liquid_dispense_behavior.html#a80a0404b15de0eee8733c38a4f49a34b" title=" " alt="" coords="5,201,251,243"/>
+<area shape="rect" id="node6" href="$class_micro_anti_clockwise_dispense_behavior.html#a8427b3fe8c7b1d03f5264d4eb0d495cd" title=" " alt="" coords="23,267,233,308"/>
+</map>

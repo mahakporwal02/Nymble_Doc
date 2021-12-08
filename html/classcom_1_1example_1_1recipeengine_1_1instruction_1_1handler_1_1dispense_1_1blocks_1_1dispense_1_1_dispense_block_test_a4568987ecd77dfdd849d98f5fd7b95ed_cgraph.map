@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.handler.dispense.blocks.dispense.DispenseBlockTest.checkStartParallelTasks" name="com.example.recipeengine.instruction.handler.dispense.blocks.dispense.DispenseBlockTest.checkStartParallelTasks">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,504,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1dispense_1_1_dispense_block.html#acd027aa9129d6cb86cfa922b683548ef" title=" " alt="" coords="552,39,1051,80"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1dispense_1_1_dispense_task.html#a7c3242fe3467e08faf7f7bc85d34f797" title=" " alt="" coords="1099,5,1469,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1dispense_1_1_dispense_task.html#aba471ff2acfea2dd9cd5d7f58a70ac43" title=" " alt="" coords="1099,71,1469,112"/>
+</map>

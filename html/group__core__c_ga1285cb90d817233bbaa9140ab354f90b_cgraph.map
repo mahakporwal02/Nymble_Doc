@@ -1,0 +1,4 @@
+<map id="cvRandReal" name="cvRandReal">
+<area shape="rect" id="node1" title="Returns a floating&#45;point random number and updates RNG." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$group__core__c.html#gaa3ee1d0d96d92d22f724a59897c97bd6" title="Returns a 32&#45;bit unsigned integer and updates RNG." alt="" coords="152,5,239,32"/>
+</map>

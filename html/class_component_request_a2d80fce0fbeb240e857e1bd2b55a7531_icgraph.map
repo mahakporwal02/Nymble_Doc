@@ -1,0 +1,7 @@
+<map id="ComponentRequest::GetCounterRequest" name="ComponentRequest::GetCounterRequest">
+<area shape="rect" id="node1" title=" " alt="" coords="519,77,751,119"/>
+<area shape="rect" id="node2" href="$class_exhaust_fan_counter.html#a88e815187b7b1aeb6c04a9436a7c4679" title=" " alt="" coords="45,5,199,47"/>
+<area shape="rect" id="node3" href="$class_water_flow_counter.html#af0fca803b9d78573a61b2f349ce97f8e" title=" " alt="" coords="22,75,222,116"/>
+<area shape="rect" id="node4" href="$class_oil_flow_counter.html#a745e11ec9be403be9fed9943a5c94ca6" title=" " alt="" coords="5,147,239,174"/>
+<area shape="rect" id="node5" href="$class_counter.html#a3f794b2020536ac3608a96ddb926f440" title=" " alt="" coords="287,59,471,86"/>
+</map>

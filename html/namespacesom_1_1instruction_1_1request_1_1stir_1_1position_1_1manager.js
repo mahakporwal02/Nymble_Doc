@@ -1,0 +1,6 @@
+var namespacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager =
+[
+    [ "StirPositionManagerModule", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stir_position_manager_module.html", null ],
+    [ "StirrerPositionManager", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stirrer_position_manager.html", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stirrer_position_manager" ],
+    [ "StirrerPositionManagerComponent", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stirrer_position_manager_component.html", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stirrer_position_manager_component" ]
+];

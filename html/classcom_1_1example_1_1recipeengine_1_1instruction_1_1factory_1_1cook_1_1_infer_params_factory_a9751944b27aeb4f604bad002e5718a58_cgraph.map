@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.factory.cook.InferParamsFactory.provideInferParameters" name="com.example.recipeengine.instruction.factory.cook.InferParamsFactory.provideInferParameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,364,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cookmodules_1_1_cook_info_converter.html#a7ee9206dffbb892629875c961ff4dc75" title=" " alt="" coords="412,5,779,47"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1cook_1_1_cook_info.html#aba57f798ae28c3b614346e48ce3842a9" title=" " alt="" coords="827,5,1167,47"/>
+</map>

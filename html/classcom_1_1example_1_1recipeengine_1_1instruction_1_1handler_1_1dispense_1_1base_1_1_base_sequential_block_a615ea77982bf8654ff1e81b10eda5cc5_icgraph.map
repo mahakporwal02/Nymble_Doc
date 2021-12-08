@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.handler.dispense.base.BaseSequentialBlock.pause" name="com.example.recipeengine.instruction.handler.dispense.base.BaseSequentialBlock.pause">
+<area shape="rect" id="node1" title=" " alt="" coords="580,39,1005,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1postdispe10fe942d607557be9b8e93ec44a2c0f8.html#a6baa34d2517cb346b6073da1734bf87f" title=" " alt="" coords="5,5,532,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1predispense_1_1_pre_dispense_block_test.html#a9ddae9bfc052c5fb5dcac3fe199b2bb3" title=" " alt="" coords="9,71,528,112"/>
+</map>

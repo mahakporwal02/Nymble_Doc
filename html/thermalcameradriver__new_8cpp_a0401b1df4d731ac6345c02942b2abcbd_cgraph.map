@@ -1,0 +1,4 @@
+<map id="elec_off" name="elec_off">
+<area shape="rect" id="node1" title="function to calculate electrical offset data by processing the raw data" alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node2" href="$thermalcameradriver__new_8cpp.html#ab970eaf86daac2725f45b072f9028d25" title="function for concatinating two bytes using little endian" alt="" coords="127,5,177,32"/>
+</map>

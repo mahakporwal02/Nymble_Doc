@@ -1,0 +1,13 @@
+<map id="AnalogFeedback" name="AnalogFeedback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,135,260"/>
+<area shape="rect" id="node2" href="$class_igbt_temperature.html" title=" " alt="" coords="201,5,331,32"/>
+<area shape="rect" id="node3" href="$class_input_current.html" title=" " alt="" coords="215,56,317,83"/>
+<area shape="rect" id="node4" href="$class_input_voltage.html" title=" " alt="" coords="214,107,318,133"/>
+<area shape="rect" id="node5" href="$class_loadcell_sensor.html" title=" " alt="" coords="206,157,326,184"/>
+<area shape="rect" id="node6" href="$class_macro360_feedback.html" title=" " alt="" coords="192,208,340,235"/>
+<area shape="rect" id="node7" href="$class_macro_feedback.html" title=" " alt="" coords="204,259,328,285"/>
+<area shape="rect" id="node8" href="$class_micro_feedback.html" title=" " alt="" coords="206,309,326,336"/>
+<area shape="rect" id="node9" href="$class_pan_temperature.html" title=" " alt="" coords="203,360,329,387"/>
+<area shape="rect" id="node10" href="$class_stirrer_current.html" title=" " alt="" coords="211,411,321,437"/>
+<area shape="rect" id="node11" href="$class_temperature_feedback.html" title=" " alt="" coords="183,461,349,488"/>
+</map>

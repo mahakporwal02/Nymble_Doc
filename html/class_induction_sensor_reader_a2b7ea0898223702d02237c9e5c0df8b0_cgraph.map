@@ -1,0 +1,13 @@
+<map id="InductionSensorReader::PollSensors" name="InductionSensorReader::PollSensors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,239,177,280"/>
+<area shape="rect" id="node2" href="$class_induction_sensor_builder.html#a263599c06efac670db681a5b6fa2465d" title=" " alt="" coords="271,5,443,47"/>
+<area shape="rect" id="node3" href="$class_hardware_service_factory.html#ad3b7207abf731b4f68149d5453a744e8" title=" " alt="" coords="267,71,447,112"/>
+<area shape="rect" id="node5" href="$class_component_request.html#a4ee4246b79901aa5173d8bb6144942ec" title=" " alt="" coords="229,137,484,163"/>
+<area shape="rect" id="node6" href="$class_component_request.html#aae76db1b1bba05838ff3fc4c88bc03ae" title=" " alt="" coords="233,187,480,214"/>
+<area shape="rect" id="node7" href="$class_induction_sensor_builder.html#a20f9ccb6988b9fc789606e0fedcd5e2c" title=" " alt="" coords="271,239,443,280"/>
+<area shape="rect" id="node8" href="$class_induction_sensor_builder.html#ab84e893a967e2144a17a32cabd20b619" title=" " alt="" coords="271,304,443,345"/>
+<area shape="rect" id="node9" href="$class_induction_sensor_builder.html#a22510c4c44c66493713a2095e777dc9f" title=" " alt="" coords="271,369,443,411"/>
+<area shape="rect" id="node10" href="$class_induction_sensor_builder.html#ad2dcf4c6a98996f5e8ba617c0ce6a4c2" title=" " alt="" coords="271,435,443,476"/>
+<area shape="rect" id="node11" href="$class_component_request.html#ab20d2079bfb20c01700fdd5eefa396b6" title=" " alt="" coords="225,501,488,527"/>
+<area shape="rect" id="node4" href="$class_hardware_service_factory.html#ae417df3d31a59ad4ec0937c893d1ec9d" title=" " alt="" coords="536,71,724,112"/>
+</map>

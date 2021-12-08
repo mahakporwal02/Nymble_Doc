@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.BaseInstruction&lt; T extends Instruction &gt;" name="com.example.recipeengine.instruction.BaseInstruction&lt; T extends Instruction &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="329,53,620,94"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1_cook.html" title=" " alt="" coords="671,5,877,61"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1_dispense.html" title=" " alt="" coords="668,85,880,141"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1_instruction.html" title=" " alt="" coords="5,53,281,94"/>
+</map>

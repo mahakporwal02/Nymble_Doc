@@ -1,0 +1,12 @@
+<map id="cv::BOWImgDescriptorExtractor" name="cv::BOWImgDescriptorExtractor">
+<area shape="rect" id="node1" title="Class to compute an image descriptor using the bag of visual words." alt="" coords="895,205,1121,231"/>
+<area shape="rect" id="node2" href="$structcv_1_1_ptr.html" title=" " alt="" coords="519,33,753,59"/>
+<area shape="rect" id="node3" title=" " alt="" coords="272,5,437,47"/>
+<area shape="rect" id="node4" href="$classcv_1_1_mat.html" title="n&#45;dimensional dense array class" alt="" coords="601,205,671,231"/>
+<area shape="rect" id="node5" href="$structcv_1_1_u_mat_data.html" title=" " alt="" coords="299,173,410,199"/>
+<area shape="rect" id="node6" href="$classcv_1_1_mat_allocator.html" title="Custom array allocator." alt="" coords="5,123,132,150"/>
+<area shape="rect" id="node7" href="$structcv_1_1_mat_step.html" title=" " alt="" coords="305,223,404,250"/>
+<area shape="rect" id="node8" href="$structcv_1_1_mat_size.html" title=" " alt="" coords="307,274,403,301"/>
+<area shape="rect" id="node9" href="$structcv_1_1_ptr.html" title=" " alt="" coords="545,285,727,311"/>
+<area shape="rect" id="node10" title=" " alt="" coords="280,325,429,367"/>
+</map>

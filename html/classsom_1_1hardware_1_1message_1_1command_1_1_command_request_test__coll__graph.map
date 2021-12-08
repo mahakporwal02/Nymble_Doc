@@ -1,0 +1,7 @@
+<map id="som.hardware.message.command.CommandRequestTest" name="som.hardware.message.command.CommandRequestTest">
+<area shape="rect" id="node1" title=" " alt="" coords="62,275,313,316"/>
+<area shape="rect" id="node2" href="$enumsom_1_1hardware_1_1message_1_1_component.html" title=" " alt="" coords="5,178,263,205"/>
+<area shape="rect" id="node3" href="$classsom_1_1hardware_1_1message_1_1command_1_1_command_request.html" title=" " alt="" coords="287,171,538,212"/>
+<area shape="rect" id="node4" href="$classsom_1_1hardware_1_1message_1_1_h_w_message.html" title=" " alt="" coords="281,95,544,121"/>
+<area shape="rect" id="node5" href="$enumsom_1_1hardware_1_1message_1_1_request_type.html" title=" " alt="" coords="280,5,545,32"/>
+</map>

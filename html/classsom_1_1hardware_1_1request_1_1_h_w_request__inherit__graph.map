@@ -1,0 +1,6 @@
+<map id="som.hardware.request.HWRequest" name="som.hardware.request.HWRequest">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,253,105"/>
+<area shape="rect" id="node2" href="$classsom_1_1hardware_1_1request_1_1_camera_request.html" title=" " alt="" coords="307,5,530,47"/>
+<area shape="rect" id="node3" href="$classsom_1_1hardware_1_1request_1_1_h_w_action_request.html" title=" " alt="" coords="301,71,536,112"/>
+<area shape="rect" id="node4" href="$classsom_1_1hardware_1_1request_1_1_sensor_request.html" title=" " alt="" coords="311,136,527,177"/>
+</map>

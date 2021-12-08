@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.task.capture.base.CapturableTask" name="com.example.recipeengine.instruction.task.capture.base.CapturableTask">
+<area shape="rect" id="node1" title=" " alt="" coords="479,27,875,69"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_task.html" title=" " alt="" coords="5,5,431,32"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_captured_data_provider.html" title=" " alt="" coords="20,57,416,98"/>
+</map>

@@ -1,0 +1,5 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1dfcf80d2336c1c1eaa3545c751529b905 =
+[
+    [ "MacroSizeCompensationDecorator", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1dfcf80d2336c1c1eaa3545c751529b905.html#a37912222104fdb8998d7abd2ce22f90a", null ],
+    [ "getVisualScore", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1dfcf80d2336c1c1eaa3545c751529b905.html#a1b8daf1ddc186eddc6815a0d3c49c33f", null ]
+];

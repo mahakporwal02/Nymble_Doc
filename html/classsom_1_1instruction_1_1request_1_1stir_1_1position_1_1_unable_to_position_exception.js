@@ -1,0 +1,4 @@
+var classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1_unable_to_position_exception =
+[
+    [ "UnableToPositionException", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1_unable_to_position_exception.html#ab48dce3330d9beec1253f0870d6e6151", null ]
+];

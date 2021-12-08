@@ -1,0 +1,13 @@
+<map id="app/src/main/cpp/HardwareLibrary/Error/I2cError/I2cError.h" name="app/src/main/cpp/HardwareLibrary/Error/I2cError/I2cError.h">
+<area shape="rect" id="node1" title=" " alt="" coords="329,5,529,61"/>
+<area shape="rect" id="node2" href="$_i2_c_request_processor_8h.html" title=" " alt="" coords="310,109,547,165"/>
+<area shape="rect" id="node3" href="$_i2_c_bus_8h.html" title=" " alt="" coords="165,213,305,240"/>
+<area shape="rect" id="node10" href="$_i2_c_request_8h.html" title=" " alt="" coords="329,213,528,240"/>
+<area shape="rect" id="node11" title=" " alt="" coords="551,213,602,240"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,288,89,315"/>
+<area shape="rect" id="node5" href="$_error_8h.html" title=" " alt="" coords="114,288,261,315"/>
+<area shape="rect" id="node8" href="$_i2_c_enums_8h.html" title=" " alt="" coords="373,288,484,315"/>
+<area shape="rect" id="node9" title=" " alt="" coords="285,288,349,315"/>
+<area shape="rect" id="node6" title=" " alt="" coords="83,363,169,389"/>
+<area shape="rect" id="node7" href="$_error_enums_8h.html" title=" " alt="" coords="194,363,303,389"/>
+</map>

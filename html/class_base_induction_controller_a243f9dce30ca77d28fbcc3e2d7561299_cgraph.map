@@ -1,0 +1,22 @@
+<map id="BaseInductionController::StartControl" name="BaseInductionController::StartControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,184,243"/>
+<area shape="rect" id="node2" href="$class_induction_state_machine.html#aa4a093e5060ed0600b9dde7c9886fbfb" title=" " alt="" coords="244,5,415,47"/>
+<area shape="rect" id="node3" href="$class_base_induction_controller.html#a52ee953b901fef5ff307b54ed9775d34" title=" " alt="" coords="232,71,427,112"/>
+<area shape="rect" id="node5" href="$class_induction_sensor_reader.html#a2b7ea0898223702d02237c9e5c0df8b0" title=" " alt="" coords="243,296,415,337"/>
+<area shape="rect" id="node16" href="$class_control_input_processor.html#a2bf6a67025685d65a690dd4b957fc7a7" title=" " alt="" coords="247,361,412,403"/>
+<area shape="rect" id="node17" href="$class_induction_state_machine.html#ace4c75118e42f348dfa49a94c561c1aa" title=" " alt="" coords="244,427,415,468"/>
+<area shape="rect" id="node18" href="$class_induction_controller.html#a93d94e0a872e1960a99f1a6eca08d675" title=" " alt="" coords="243,201,416,243"/>
+<area shape="rect" id="node20" href="$class_induction_controller.html#a5c5ee13025fb3141c2b62e42b960d3e0" title=" " alt="" coords="251,136,408,177"/>
+<area shape="rect" id="node4" href="$class_induction_state_machine.html#a8a7e01edf9b3ec433109219b3dd06fb3" title=" " alt="" coords="509,29,703,71"/>
+<area shape="rect" id="node6" href="$class_induction_sensor_builder.html#a263599c06efac670db681a5b6fa2465d" title=" " alt="" coords="520,576,692,617"/>
+<area shape="rect" id="node7" href="$class_hardware_service_factory.html#ad3b7207abf731b4f68149d5453a744e8" title=" " alt="" coords="516,197,696,239"/>
+<area shape="rect" id="node9" href="$class_component_request.html#a4ee4246b79901aa5173d8bb6144942ec" title=" " alt="" coords="479,146,733,173"/>
+<area shape="rect" id="node10" href="$class_component_request.html#aae76db1b1bba05838ff3fc4c88bc03ae" title=" " alt="" coords="483,642,729,669"/>
+<area shape="rect" id="node11" href="$class_induction_sensor_builder.html#a20f9ccb6988b9fc789606e0fedcd5e2c" title=" " alt="" coords="520,263,692,304"/>
+<area shape="rect" id="node12" href="$class_induction_sensor_builder.html#ab84e893a967e2144a17a32cabd20b619" title=" " alt="" coords="520,328,692,369"/>
+<area shape="rect" id="node13" href="$class_induction_sensor_builder.html#a22510c4c44c66493713a2095e777dc9f" title=" " alt="" coords="520,393,692,435"/>
+<area shape="rect" id="node14" href="$class_induction_sensor_builder.html#ad2dcf4c6a98996f5e8ba617c0ce6a4c2" title=" " alt="" coords="520,459,692,500"/>
+<area shape="rect" id="node15" href="$class_component_request.html#ab20d2079bfb20c01700fdd5eefa396b6" title=" " alt="" coords="475,525,737,551"/>
+<area shape="rect" id="node8" href="$class_hardware_service_factory.html#ae417df3d31a59ad4ec0937c893d1ec9d" title=" " alt="" coords="785,197,973,239"/>
+<area shape="rect" id="node19" href="$class_component_request.html#af986fdc80d9900e5a8d893a874d55cdf" title=" " alt="" coords="499,95,713,122"/>
+</map>

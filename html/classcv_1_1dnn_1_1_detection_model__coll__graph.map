@@ -1,0 +1,7 @@
+<map id="cv::dnn::DetectionModel" name="cv::dnn::DetectionModel">
+<area shape="rect" id="node1" title="This class represents high&#45;level API for object detection networks." alt="" coords="5,247,184,273"/>
+<area shape="rect" id="node2" href="$classcv_1_1dnn_1_1_model.html" title="This class is presented high&#45;level API for neural networks." alt="" coords="37,171,153,197"/>
+<area shape="rect" id="node3" href="$classcv_1_1dnn_1_1_net.html" title="This class allows to create and manipulate comprehensive artificial neural networks." alt="" coords="24,81,123,108"/>
+<area shape="rect" id="node4" href="$structcv_1_1_ptr.html" title=" " alt="" coords="147,81,269,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="119,5,297,32"/>
+</map>

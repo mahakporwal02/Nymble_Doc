@@ -1,0 +1,6 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer =
+[
+    [ "StirrerParams", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_params.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_params" ],
+    [ "StirrerProfile", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_profile.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_profile" ],
+    [ "StirrerProfileTest", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_profile_test.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_profile_test" ]
+];

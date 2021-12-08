@@ -1,0 +1,4 @@
+var interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_angle_detector =
+[
+    [ "getStirrerAngle", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_angle_detector.html#a240ba662da853f92b4ffabf3f61ba652", null ]
+];

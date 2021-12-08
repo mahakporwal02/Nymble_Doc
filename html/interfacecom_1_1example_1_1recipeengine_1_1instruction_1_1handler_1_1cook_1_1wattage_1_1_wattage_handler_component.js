@@ -1,0 +1,4 @@
+var interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1wattage_1_1_wattage_handler_component =
+[
+    [ "buildWattageHandlerObject", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1wattage_1_1_wattage_handler_component.html#ad8a54fc4943eb10ed706062f7b275b58", null ]
+];

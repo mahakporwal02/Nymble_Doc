@@ -1,0 +1,8 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer =
+[
+    [ "BaseInferBlock", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block" ],
+    [ "BaseInferBlockTest", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block_test.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block_test" ],
+    [ "InferBlock", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_infer_block.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_infer_block" ],
+    [ "InferredResult", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_inferred_result.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_inferred_result" ],
+    [ "InferredResultTest", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_inferred_result_test.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_inferred_result_test" ]
+];

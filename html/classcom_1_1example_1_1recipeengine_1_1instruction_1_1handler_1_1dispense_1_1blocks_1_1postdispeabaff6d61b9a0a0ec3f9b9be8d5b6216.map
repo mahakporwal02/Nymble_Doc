@@ -1,0 +1,8 @@
+<map id="com.example.recipeengine.instruction.handler.dispense.blocks.postdispense.PostDispenseBlockTest" name="com.example.recipeengine.instruction.handler.dispense.blocks.postdispense.PostDispenseBlockTest">
+<area shape="rect" id="node1" title=" " alt="" coords="2064,5,2591,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1postdispense_1_1_post_dispense_block.html" title=" " alt="" coords="1360,5,1887,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_base_sequential_block.html" title=" " alt="" coords="885,5,1311,47"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_sequential_task_block.html" title=" " alt="" coords="513,5,836,47"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_block.html" title=" " alt="" coords="141,5,464,47"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,13,92,39"/>
+</map>

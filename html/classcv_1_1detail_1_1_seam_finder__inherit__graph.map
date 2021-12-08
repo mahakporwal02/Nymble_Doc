@@ -1,0 +1,8 @@
+<map id="cv::detail::SeamFinder" name="cv::detail::SeamFinder">
+<area shape="rect" id="node1" title="Base class for a seam estimator." alt="" coords="5,93,172,120"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_dp_seam_finder.html" title=" " alt="" coords="221,5,405,32"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_graph_cut_seam_finder.html" title="Minimum graph cut&#45;based seam estimator. See details in &#160;." alt="" coords="220,57,407,98"/>
+<area shape="rect" id="node4" href="$classcv_1_1detail_1_1_no_seam_finder.html" title="Stub seam estimator which does nothing." alt="" coords="221,123,405,149"/>
+<area shape="rect" id="node5" href="$classcv_1_1detail_1_1_pairwise_seam_finder.html" title="Base class for all pairwise seam estimators." alt="" coords="223,174,403,215"/>
+<area shape="rect" id="node6" href="$classcv_1_1detail_1_1_voronoi_seam_finder.html" title="Voronoi diagram&#45;based seam estimator." alt="" coords="455,181,669,208"/>
+</map>

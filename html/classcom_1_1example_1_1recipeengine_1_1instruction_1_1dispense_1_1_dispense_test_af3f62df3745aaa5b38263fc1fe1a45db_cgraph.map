@@ -1,0 +1,7 @@
+<map id="com.example.recipeengine.instruction.dispense.DispenseTest.checkAdaptedDispenseQuantityInGrams" name="com.example.recipeengine.instruction.dispense.DispenseTest.checkAdaptedDispenseQuantityInGrams">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,380,121"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1adaptor_1_1_instruction_adaptor.html#adfbdc000c2511651a2f155042be5587e" title=" " alt="" coords="819,5,1149,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1_dispense.html#a56c4d5af0b20746f09800d34609f9972" title=" " alt="" coords="428,51,767,92"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1_dispense.html#ad454599145abd9c5ba97cf2ecf1bf6e1" title=" " alt="" coords="815,84,1153,125"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1_base_dispense.html#a9ad5d6254d84ea94e8e98923ddaf6bcc" title=" " alt="" coords="428,168,767,209"/>
+</map>

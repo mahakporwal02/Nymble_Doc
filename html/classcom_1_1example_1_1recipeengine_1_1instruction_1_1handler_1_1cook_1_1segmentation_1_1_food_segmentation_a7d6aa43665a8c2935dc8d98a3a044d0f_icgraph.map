@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.handler.cook.segmentation.FoodSegmentation.close" name="com.example.recipeengine.instruction.handler.cook.segmentation.FoodSegmentation.close">
+<area shape="rect" id="node1" title=" " alt="" coords="548,71,1005,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_infer.html#aa1d3e89c2a02fc9cafed7309c21c3b33" title=" " alt="" coords="5,5,500,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_infer.html#a7a03562028f62ab5ea1ac3c3333061bd" title=" " alt="" coords="29,71,477,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_infer.html#a03c83eba8956ebb2120a25b93ceca280" title=" " alt="" coords="5,136,500,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Images stitching" name="Images stitching">
+<area shape="rect" id="node1" href="$group__stitching__blend.html" title=" " alt="" coords="212,5,336,31"/>
+<area shape="rect" id="node2" title="This figure illustrates the stitching module pipeline implemented in the Stitcher class...." alt="" coords="5,153,136,179"/>
+<area shape="rect" id="node3" href="$group__stitching__seam.html" title=" " alt="" coords="207,55,341,80"/>
+<area shape="rect" id="node4" href="$group__stitching__rotation.html" title=" " alt="" coords="199,104,349,129"/>
+<area shape="rect" id="node5" href="$group__stitching__warp.html" title=" " alt="" coords="211,153,337,179"/>
+<area shape="rect" id="node6" href="$group__stitching__exposure.html" title=" " alt="" coords="184,203,364,228"/>
+<area shape="rect" id="node7" href="$group__stitching__match.html" title=" " alt="" coords="195,253,353,293"/>
+<area shape="rect" id="node8" href="$group__stitching__autocalib.html" title=" " alt="" coords="213,317,335,343"/>
+</map>

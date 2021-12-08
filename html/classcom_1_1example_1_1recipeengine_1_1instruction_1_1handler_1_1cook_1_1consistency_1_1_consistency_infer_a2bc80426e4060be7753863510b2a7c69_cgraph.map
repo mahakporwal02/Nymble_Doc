@@ -1,0 +1,10 @@
+<map id="com.example.recipeengine.instruction.handler.cook.consistency.ConsistencyInfer.infer" name="com.example.recipeengine.instruction.handler.cook.consistency.ConsistencyInfer.infer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,448,243"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block.html#aaabc0970f691ccaa5cbbe1764e28d96e" title=" " alt="" coords="501,5,897,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block.html#a1603b92038f2a2885fae7dbf3cc5c06c" title=" " alt="" coords="501,71,897,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1capture_1_1_captured_task_data.html#a0cd21fc7672935ca882a8e5845769a10" title=" " alt="" coords="512,136,887,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1status_1_1_u_i_data.html#a073a78e7c3412b09c9b7f3e91cd34d50" title=" " alt="" coords="496,201,903,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1status_1_1_u_i_data.html#aab39d27a034d1eacaad4542f0f9b0a26" title=" " alt="" coords="496,267,903,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1status_1_1_progress_data.html#a91e9507c7d151decec1e01c3ddccae8c" title=" " alt="" coords="496,332,903,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1status_1_1_progress_data.html#a22583a2129126667096efe1d50a06853" title=" " alt="" coords="496,397,903,439"/>
+</map>

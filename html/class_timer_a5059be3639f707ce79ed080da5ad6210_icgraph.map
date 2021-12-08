@@ -1,0 +1,11 @@
+<map id="Timer::GetTimeElapsed" name="Timer::GetTimeElapsed">
+<area shape="rect" id="node1" title=" " alt="" coords="771,177,945,203"/>
+<area shape="rect" id="node2" href="$class_stirrer_time_based_sequence.html#af8d07fb6990cc13180c6eb798f019b9c" title=" " alt="" coords="501,5,699,47"/>
+<area shape="rect" id="node3" href="$class_micro_clockwise_dispense_behavior.html#a911e217e1f305bacfd8dde8684ef34a7" title=" " alt="" coords="479,71,721,112"/>
+<area shape="rect" id="node4" href="$class_macro_liquid_dispense_behavior.html#af3d124d3604fa07a238bc98898ad117a" title=" " alt="" coords="491,136,709,177"/>
+<area shape="rect" id="node5" href="$class_macro_non_liquid_dispense_behavior.html#a80a0404b15de0eee8733c38a4f49a34b" title=" " alt="" coords="477,201,723,243"/>
+<area shape="rect" id="node6" href="$class_micro_anti_clockwise_dispense_behavior.html#a8427b3fe8c7b1d03f5264d4eb0d495cd" title=" " alt="" coords="495,267,705,308"/>
+<area shape="rect" id="node7" href="$class_m_c_p3426.html#a1f66a752f8f05d3cd6703756aaa65228" title=" " alt="" coords="511,333,689,359"/>
+<area shape="rect" id="node8" href="$class_adc_request_processor.html#af7881f3edff7747e9b667746f18c6d63" title=" " alt="" coords="267,325,429,367"/>
+<area shape="rect" id="node9" href="$class_analog_feedback.html#a47af2f5eaa8e86b8f3e264a39a3f30bc" title=" " alt="" coords="5,325,219,367"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="com.example.recipeengine.instruction.Instruction.getInstructionId" name="com.example.recipeengine.instruction.Instruction.getInstructionId">
+<area shape="rect" id="node1" title=" " alt="" coords="907,71,1183,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator.html#ade646cc558caf3c915f042913e47a93f" title=" " alt="" coords="469,5,845,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1decorator_1_1_base_dispense_decorator.html#a5942138f33295bca40a4d4bb28ccdf4a" title=" " alt="" coords="456,71,859,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_base_chef.html#a7eb5420f74f1cfbda4ff1c383fe141a3" title=" " alt="" coords="516,217,799,259"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator_test.html#aa006b56ec51c74429544b13b95e585f1" title=" " alt="" coords="19,5,395,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1decorator_1_1_base_dispense_decorator_test.html#abdf7e46332d5d5917011b6a65995edb9" title=" " alt="" coords="5,71,408,112"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_base_chef_test.html#a682039fe2b811cee33c367d8d19b41b3" title=" " alt="" coords="54,137,359,193"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_base_chef_test.html#a4acedea2d430dd26bf48b866fc2ad266" title=" " alt="" coords="51,217,363,259"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_base_chef_test.html#abe67b26c74bfd6655fe78bfdb68bb954" title=" " alt="" coords="53,283,361,339"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_base_chef_test.html#ac45610118737d2786439c570a22c7ecd" title=" " alt="" coords="53,363,361,419"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BasePowerControllerV2::ShutdownInduction" name="BasePowerControllerV2::ShutdownInduction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,180,131"/>
+<area shape="rect" id="node2" href="$class_power_controller.html#a9dc52e60686e1dc6503e93f179249012" title=" " alt="" coords="228,89,427,131"/>
+<area shape="rect" id="node3" href="$class_hardware_service_factory.html#ad3b7207abf731b4f68149d5453a744e8" title=" " alt="" coords="512,5,692,47"/>
+<area shape="rect" id="node5" href="$class_component_request.html#a4ee4246b79901aa5173d8bb6144942ec" title=" " alt="" coords="475,71,729,98"/>
+<area shape="rect" id="node6" href="$class_component_request.html#ac546d8ea51460d978c6b1bf907622e08" title=" " alt="" coords="493,122,711,149"/>
+<area shape="rect" id="node7" href="$class_component_request.html#af986fdc80d9900e5a8d893a874d55cdf" title=" " alt="" coords="495,173,709,199"/>
+<area shape="rect" id="node4" href="$class_hardware_service_factory.html#ae417df3d31a59ad4ec0937c893d1ec9d" title=" " alt="" coords="777,5,965,47"/>
+</map>

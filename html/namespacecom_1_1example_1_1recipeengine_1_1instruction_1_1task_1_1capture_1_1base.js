@@ -1,0 +1,7 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base =
+[
+    [ "BaseCapturableTask", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_base_capturable_task.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_base_capturable_task" ],
+    [ "CapturableTask", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_capturable_task.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_capturable_task" ],
+    [ "CapturedDataProvider", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_captured_data_provider.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_captured_data_provider" ],
+    [ "Task", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_task.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_task" ]
+];

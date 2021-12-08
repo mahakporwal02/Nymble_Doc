@@ -1,0 +1,4 @@
+<map id="cv::BRISK::setThreshold" name="cv::BRISK::setThreshold">
+<area shape="rect" id="node1" title="Set detection threshold." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$group__imgproc__misc.html#gabd93e7119f2b85135109ab4b1f4f9eaf" title="Applies a fixed&#45;level threshold to each array element." alt="" coords="228,5,333,32"/>
+</map>

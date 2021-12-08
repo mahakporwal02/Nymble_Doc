@@ -1,0 +1,4 @@
+var classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1validator_1_1_stirrer_position_validator_impl =
+[
+    [ "isPositionValid", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1validator_1_1_stirrer_position_validator_impl.html#aed761646964505940f6084cf2b574010", null ]
+];

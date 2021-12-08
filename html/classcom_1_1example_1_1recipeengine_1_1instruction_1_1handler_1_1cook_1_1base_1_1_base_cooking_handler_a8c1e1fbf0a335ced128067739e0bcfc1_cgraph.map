@@ -1,0 +1,12 @@
+<map id="com.example.recipeengine.instruction.handler.cook.base.BaseCookingHandler.setUpStirring" name="com.example.recipeengine.instruction.handler.cook.base.BaseCookingHandler.setUpStirring">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,404,243"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1_cook.html#ac7e8640dab7e07dbe1b7af5ee8b6eb3f" title=" " alt="" coords="496,5,807,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler.html#ad641df5dc6bfae1851a05e3427837f5b" title=" " alt="" coords="452,71,851,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1_cook.html#a04ed303f84f3be8db1b0c53310b9af27" title=" " alt="" coords="496,136,807,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1_cook.html#a20282c83cb3729586c1dc2be9db75b77" title=" " alt="" coords="496,201,807,243"/>
+<area shape="rect" id="node6" href="$classsom_1_1hardware_1_1request_1_1handler_1_1_request_handler.html#acf2433cbd860bb45e444397b70cbafb9" title=" " alt="" coords="538,267,765,308"/>
+<area shape="rect" id="node9" href="$classsom_1_1instruction_1_1request_1_1actuator_1_1_actuator.html#a5eb6bdb5425da98f192cc0008c0e82aa" title=" " alt="" coords="533,332,770,373"/>
+<area shape="rect" id="node10" href="$classsom_1_1instruction_1_1request_1_1actuator_1_1_actuator.html#ac13c2db83e53de32a9fa61c73c656f90" title=" " alt="" coords="533,397,770,439"/>
+<area shape="rect" id="node7" href="$classsom_1_1hardware_1_1service_1_1_h_w_service.html#abb4d1eeb8f5d1c878b43144069d83c52" title=" " alt="" coords="899,267,1195,308"/>
+<area shape="rect" id="node8" href="$classsom_1_1hardware_1_1request_1_1_h_w_request.html#a1baaf8e3f7828b92339db428c56c7d2f" title=" " alt="" coords="1243,267,1516,308"/>
+</map>

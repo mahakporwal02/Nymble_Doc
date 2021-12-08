@@ -1,0 +1,4 @@
+<map id="I2CBus::ReadFromRegister" name="I2CBus::ReadFromRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$i2c__driver_8cpp.html#a5f98570513efefe33ddca2135b6ff9a9" title=" " alt="" coords="248,5,391,32"/>
+</map>

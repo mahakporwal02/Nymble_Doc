@@ -1,0 +1,11 @@
+<map id="PanDetection::DetectPan" name="PanDetection::DetectPan">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,188,194"/>
+<area shape="rect" id="node2" href="$class_hardware_service_factory.html#ad3b7207abf731b4f68149d5453a744e8" title=" " alt="" coords="572,5,752,47"/>
+<area shape="rect" id="node4" href="$class_induction_ping_control.html#a30a2777398386588fb7f19df726439bb" title=" " alt="" coords="281,101,438,143"/>
+<area shape="rect" id="node5" href="$class_component_request.html#a4ee4246b79901aa5173d8bb6144942ec" title=" " alt="" coords="535,97,789,123"/>
+<area shape="rect" id="node6" href="$class_component_request.html#ab20d2079bfb20c01700fdd5eefa396b6" title=" " alt="" coords="531,149,793,175"/>
+<area shape="rect" id="node7" href="$class_component_request.html#af986fdc80d9900e5a8d893a874d55cdf" title=" " alt="" coords="555,203,769,230"/>
+<area shape="rect" id="node8" href="$class_component_request.html#aae76db1b1bba05838ff3fc4c88bc03ae" title=" " alt="" coords="236,269,483,295"/>
+<area shape="rect" id="node9" href="$class_component_request.html#ac546d8ea51460d978c6b1bf907622e08" title=" " alt="" coords="250,319,469,346"/>
+<area shape="rect" id="node3" href="$class_hardware_service_factory.html#ae417df3d31a59ad4ec0937c893d1ec9d" title=" " alt="" coords="841,5,1029,47"/>
+</map>

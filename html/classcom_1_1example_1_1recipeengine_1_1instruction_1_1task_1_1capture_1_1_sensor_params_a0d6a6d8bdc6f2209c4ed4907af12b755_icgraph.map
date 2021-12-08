@@ -1,0 +1,11 @@
+<map id="com.example.recipeengine.instruction.task.capture.SensorParams.getNumOfSamples" name="com.example.recipeengine.instruction.task.capture.SensorParams.getNumOfSamples">
+<area shape="rect" id="node1" title=" " alt="" coords="1041,169,1403,211"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1weight_1_1_weight_capture_test.html#ace4d35b19ed7c0105ef02598e248d22a" title=" " alt="" coords="560,5,969,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_vision_capture_test.html#af94afeb478c6d84e6a1d8bab6bbaefc4" title=" " alt="" coords="563,71,967,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1_sensor_params_test.html#ac46881ecc0c5deed596a78f5f96f97af" title=" " alt="" coords="611,136,919,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1weight_1_1_weight_sensor_thread.html#ace5fcc0470793e69766ec8ca5cff61c5" title=" " alt="" coords="560,201,969,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_vision_camera_thread.html#a06175cbf7341949f7fef9049080d977c" title=" " alt="" coords="536,267,993,308"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_thermal_camera_thread.html#ac1ca488000a8cdec5c2d3da73a68e020" title=" " alt="" coords="536,332,993,373"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_vision_camera_thread_test.html#a9246f934e5f50ac0b9b855531a9712b6" title=" " alt="" coords="5,267,488,308"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_thermal_camera_thread_test.html#a6d40b5be77158fd4a220402e9ce2d08d" title=" " alt="" coords="18,332,475,373"/>
+</map>

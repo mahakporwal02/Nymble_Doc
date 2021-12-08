@@ -1,0 +1,16 @@
+<map id="com.example.recipeengine.instruction.handler.cook.base.BaseCookingHandler.setUpStirring" name="com.example.recipeengine.instruction.handler.cook.base.BaseCookingHandler.setUpStirring">
+<area shape="rect" id="node1" title=" " alt="" coords="995,300,1393,341"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler_test.html#aeedf7f56df284bef13afcb47644376f5" title=" " alt="" coords="548,267,947,308"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler.html#a61f0258c968367aa9e991754f8be6825" title=" " alt="" coords="548,332,947,373"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1boiling_1_1_boiling_cooking_handler_test.html#a11affb51c5d73fb1145ba49f131b197e" title=" " alt="" coords="47,5,458,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1boiling_1_1_boiling_cooking_handler_test.html#a602b8b2e7cf4bc925c773ed901122c15" title=" " alt="" coords="47,71,458,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1consistency_1_1_consistency_cooking_handler_test.html#ac32bd28556e26235644f8f5a4da78cb3" title=" " alt="" coords="31,136,474,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1consistency_1_1_consistency_cooking_handler_test.html#a9236de28524c60d0bb77d9fe47a0f1b3" title=" " alt="" coords="31,201,474,243"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1_dry_wet_cooking_handler_test.html#a362e30fb5f12b887854adb7db045ba91" title=" " alt="" coords="47,267,459,308"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1_dry_wet_cooking_handler_test.html#ae9c7cb8bdc15926322287d724ccad814" title=" " alt="" coords="47,332,459,373"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler_test.html#a283e715b3bb8e26b12ce6c1a7b01a865" title=" " alt="" coords="50,397,455,439"/>
+<area shape="rect" id="node11" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler_test.html#a4e80b86069f9c0cc2ba4a1e65c69b11b" title=" " alt="" coords="50,463,455,504"/>
+<area shape="rect" id="node12" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler_test.html#a64cd4638c49606873418e3232d82120b" title=" " alt="" coords="53,528,452,569"/>
+<area shape="rect" id="node13" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler_test.html#ab831664454737b64a388a3337eaa39d4" title=" " alt="" coords="5,593,500,635"/>
+<area shape="rect" id="node14" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler_test.html#a5ed0d6792d96155f6b88a4e037dd5449" title=" " alt="" coords="5,659,500,700"/>
+</map>

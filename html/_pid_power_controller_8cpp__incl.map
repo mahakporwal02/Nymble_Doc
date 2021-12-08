@@ -1,0 +1,12 @@
+<map id="app/src/main/cpp/HardwareLibrary/InductionControl/PowerController/PowerControlBehavior/PidPowerController/PidPowerController.cpp" name="app/src/main/cpp/HardwareLibrary/InductionControl/PowerController/PowerControlBehavior/PidPowerController/PidPowerController.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="367,5,671,76"/>
+<area shape="rect" id="node2" href="$_pid_power_controller_8h.html" title=" " alt="" coords="441,124,598,151"/>
+<area shape="rect" id="node3" href="$_power_control_behavior_8h.html" title=" " alt="" coords="87,221,277,247"/>
+<area shape="rect" id="node6" href="$_induction_control_pid_8h.html" title=" " alt="" coords="301,199,519,269"/>
+<area shape="rect" id="node7" href="$_induction_ping_control_8h.html" title=" " alt="" coords="543,199,717,269"/>
+<area shape="rect" id="node8" href="$_error_8h.html" title=" " alt="" coords="618,325,765,351"/>
+<area shape="rect" id="node4" href="$_induction_sensor_8h.html" title=" " alt="" coords="5,317,156,359"/>
+<area shape="rect" id="node5" href="$_induction_control_enums_8h.html" title=" " alt="" coords="180,325,389,351"/>
+<area shape="rect" id="node9" title=" " alt="" coords="587,407,673,433"/>
+<area shape="rect" id="node10" href="$_error_enums_8h.html" title=" " alt="" coords="698,407,807,433"/>
+</map>

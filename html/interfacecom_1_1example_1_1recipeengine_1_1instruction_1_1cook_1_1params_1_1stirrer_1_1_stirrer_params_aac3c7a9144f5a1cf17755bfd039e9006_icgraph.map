@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.cook.params.stirrer.StirrerParams.getStirringSpeed" name="com.example.recipeengine.instruction.cook.params.stirrer.StirrerParams.getStirringSpeed">
+<area shape="rect" id="node1" title=" " alt="" coords="884,39,1291,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1stirrer_1_1_stirrer_profile_test.html#a18da2f610ee3d1ae12a1b44028cafd09" title=" " alt="" coords="429,5,836,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator.html#aeaf3241d6c396262dcfca2850fc91f7f" title=" " alt="" coords="445,71,821,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator_test.html#a2ab1bfbf2a88038e18b17e662f304dd3" title=" " alt="" coords="5,71,381,112"/>
+</map>

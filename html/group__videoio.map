@@ -1,0 +1,9 @@
+<map id="Video I/O" name="Video I/O">
+<area shape="rect" id="node1" href="$group__videoio__winrt.html" title=" " alt="" coords="135,5,313,31"/>
+<area shape="rect" id="node2" href="$group__videoio__c.html" title=" " alt="" coords="154,55,294,80"/>
+<area shape="rect" id="node3" href="$group__videoio__flags__base.html" title=" " alt="" coords="153,104,295,129"/>
+<area shape="rect" id="node4" href="$group__videoio__registry.html" title=" " alt="" coords="137,154,311,194"/>
+<area shape="rect" id="node5" href="$group__videoio__ios.html" title=" " alt="" coords="144,219,304,244"/>
+<area shape="rect" id="node6" href="$group__videoio__flags__others.html" title=" " alt="" coords="137,269,311,309"/>
+<area shape="rect" id="node7" title="Read and write video or images sequence with OpenCV." alt="" coords="5,133,87,159"/>
+</map>

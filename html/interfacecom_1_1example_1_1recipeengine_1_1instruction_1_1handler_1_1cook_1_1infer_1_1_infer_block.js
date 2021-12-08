@@ -1,0 +1,4 @@
+var interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_infer_block =
+[
+    [ "infer", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_infer_block.html#a45cc3741ad044a60f2f896ceb4cb1bd9", null ]
+];

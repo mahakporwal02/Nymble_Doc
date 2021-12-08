@@ -1,0 +1,13 @@
+<map id="com.example.recipeengine.instruction.task.capture.vision.VisionCaptureTest.checkAbortTaskVisionCapture" name="com.example.recipeengine.instruction.task.capture.vision.VisionCaptureTest.checkAbortTaskVisionCapture">
+<area shape="rect" id="node1" title=" " alt="" coords="5,203,409,244"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_vision_capture.html#a37920d205d685aaedf69bd6271b1de03" title=" " alt="" coords="457,104,861,145"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_vision_capture.html#afd5f75b00d2d9f3efc5c6f824030490a" title=" " alt="" coords="457,169,861,211"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_vision_capture.html#a65ed02084f362267d7e369deb76b794a" title=" " alt="" coords="457,235,861,276"/>
+<area shape="rect" id="node11" href="$classcom_1_1example_1_1recipeengine_1_1resources_1_1_julia_state_demo.html#a7ae33341b7146ee119d4b2b4a7666321" title=" " alt="" coords="524,300,795,341"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1resources_1_1_julia_state_demo.html#ad3a829b486292a32bd3864bbc37de21f" title=" " alt="" coords="1023,5,1329,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1resources_1_1_julia_state_demo.html#ac19a75f6e2e642309a8026ac6e5bd6b6" title=" " alt="" coords="1041,71,1311,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1_sensor_params.html#a80e004db6cacaa5ab5e2da8b2995d6f8" title=" " alt="" coords="995,136,1357,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_vision_task_factory.html#a52f40b8350f2e31c82e7a7fd9f050fa3" title=" " alt="" coords="974,201,1378,243"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1captureconstants_1_1_visual_capture_type.html#a50a0a9e919b64b74c2b22269cb8d4a9c" title=" " alt="" coords="909,267,1443,308"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1_sensor_params.html#aa16e69884a58f9333610b857db3b96f4" title=" " alt="" coords="995,332,1357,373"/>
+</map>

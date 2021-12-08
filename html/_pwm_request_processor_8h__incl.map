@@ -1,0 +1,21 @@
+<map id="app/src/main/cpp/HardwareLibrary/HardwareService/Peripherals/Pwm/PwmRequestProcessor/PwmRequestProcessor.h" name="app/src/main/cpp/HardwareLibrary/HardwareService/Peripherals/Pwm/PwmRequestProcessor/PwmRequestProcessor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="315,5,602,76"/>
+<area shape="rect" id="node2" href="$_p_c_a9685_enums_8h.html" title=" " alt="" coords="138,213,286,255"/>
+<area shape="rect" id="node3" href="$_pwm_request_8h.html" title=" " alt="" coords="29,131,249,158"/>
+<area shape="rect" id="node4" href="$_pwm_8h.html" title=" " alt="" coords="475,221,554,247"/>
+<area shape="rect" id="node15" href="$_pca9685_8h.html" title=" " alt="" coords="273,124,421,165"/>
+<area shape="rect" id="node16" href="$_d_s1050_z_8h.html" title=" " alt="" coords="496,124,645,165"/>
+<area shape="rect" id="node17" href="$_m_a_x6650_8h.html" title=" " alt="" coords="669,124,821,165"/>
+<area shape="rect" id="node19" href="$_non_volatile_factors_8h.html" title=" " alt="" coords="846,131,1037,158"/>
+<area shape="rect" id="node5" href="$_error_8h.html" title=" " alt="" coords="317,467,451,493"/>
+<area shape="rect" id="node8" href="$_i2_c_request_processor_8h.html" title=" " alt="" coords="526,303,722,344"/>
+<area shape="rect" id="node6" title=" " alt="" coords="279,541,366,568"/>
+<area shape="rect" id="node7" href="$_error_enums_8h.html" title=" " alt="" coords="391,541,500,568"/>
+<area shape="rect" id="node9" href="$_i2_c_bus_8h.html" title=" " alt="" coords="455,392,595,419"/>
+<area shape="rect" id="node13" href="$_i2_c_request_8h.html" title=" " alt="" coords="619,392,818,419"/>
+<area shape="rect" id="node14" title=" " alt="" coords="841,392,892,419"/>
+<area shape="rect" id="node10" title=" " alt="" coords="475,467,559,493"/>
+<area shape="rect" id="node11" href="$_i2_c_enums_8h.html" title=" " alt="" coords="673,467,783,493"/>
+<area shape="rect" id="node12" title=" " alt="" coords="584,467,648,493"/>
+<area shape="rect" id="node18" href="$_m_a_x6650_enums_8h.html" title=" " alt="" coords="675,221,815,247"/>
+</map>

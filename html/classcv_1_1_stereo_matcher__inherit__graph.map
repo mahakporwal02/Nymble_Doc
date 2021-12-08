@@ -1,0 +1,6 @@
+<map id="cv::StereoMatcher" name="cv::StereoMatcher">
+<area shape="rect" id="node1" title="The base class for stereo correspondence algorithms." alt="" coords="59,80,197,107"/>
+<area shape="rect" id="node3" href="$classcv_1_1_stereo_b_m.html" title="Class for computing stereo correspondence using the block matching algorithm, introduced and contribu..." alt="" coords="5,155,112,181"/>
+<area shape="rect" id="node4" href="$classcv_1_1_stereo_s_g_b_m.html" title="The class implements the modified H. Hirschmuller algorithm &#160;that differs from the original one as fo..." alt="" coords="136,155,261,181"/>
+<area shape="rect" id="node2" href="$classcv_1_1_algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="74,5,182,32"/>
+</map>

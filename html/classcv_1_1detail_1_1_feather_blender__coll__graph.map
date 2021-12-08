@@ -1,0 +1,10 @@
+<map id="cv::detail::FeatherBlender" name="cv::detail::FeatherBlender">
+<area shape="rect" id="node1" title="Simple blender which mixes images at its borders." alt="" coords="211,379,399,405"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_blender.html" title="Base class for all blenders." alt="" coords="235,303,374,329"/>
+<area shape="rect" id="node3" href="$classcv_1_1_rect__.html" title="Template class for 2D rectangles." alt="" coords="195,199,329,225"/>
+<area shape="rect" id="node4" href="$classcv_1_1_u_mat.html" title=" " alt="" coords="353,199,432,225"/>
+<area shape="rect" id="node5" href="$structcv_1_1_u_mat_data.html" title=" " alt="" coords="133,109,244,136"/>
+<area shape="rect" id="node6" href="$classcv_1_1_mat_allocator.html" title="Custom array allocator." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node7" href="$structcv_1_1_mat_step.html" title=" " alt="" coords="413,109,511,136"/>
+<area shape="rect" id="node8" href="$structcv_1_1_mat_size.html" title=" " alt="" coords="535,109,631,136"/>
+</map>

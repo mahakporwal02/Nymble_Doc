@@ -1,0 +1,9 @@
+<map id="com.example.recipeengine.instruction.factory.cook.StirrerParamsFactory.provideStirrerProfile" name="com.example.recipeengine.instruction.factory.cook.StirrerParamsFactory.provideStirrerProfile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,364,177"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cookmodules_1_1_cook_info_converter.html#a755f941ad4d99f363212268c62114955" title=" " alt="" coords="412,136,779,177"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1cook_1_1_stirrer_info.html#a320c5a9160653352ec0a83760bfd6418" title=" " alt="" coords="827,5,1167,47"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1cook_1_1_cook_info.html#afb24ac9ba03a87a331742e2024bb0e71" title=" " alt="" coords="827,71,1167,112"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1cook_1_1_stirrer_info.html#ab3380261b6a368de698280c120277901" title=" " alt="" coords="827,136,1167,177"/>
+<area shape="rect" id="node6" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1cook_1_1_stirrer_info.html#ae8f274895324d5b5c3ea4dacaa3d78ff" title=" " alt="" coords="827,201,1167,243"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1_instruction_info.html#aea0c9cbb293dfe71372732adf3218116" title=" " alt="" coords="844,267,1149,308"/>
+</map>

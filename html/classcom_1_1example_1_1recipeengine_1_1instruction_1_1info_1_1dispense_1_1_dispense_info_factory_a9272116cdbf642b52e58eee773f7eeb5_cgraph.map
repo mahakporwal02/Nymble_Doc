@@ -1,0 +1,26 @@
+<map id="com.example.recipeengine.instruction.info.dispense.DispenseInfoFactory.createDispenseInfo" name="com.example.recipeengine.instruction.info.dispense.DispenseInfoFactory.createDispenseInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,372,276"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1_instruction_info_builder.html#a2c1fa349f1569c2a09706a75ea26e175" title=" " alt="" coords="453,5,758,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1_instruction_info_builder.html#a7efff1b87fca2bf8a597d318c2bd706d" title=" " alt="" coords="453,71,758,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_dispense_block_builder.html#a8300c9ab888f9b0e23cf43b56f6cb225" title=" " alt="" coords="422,136,789,177"/>
+<area shape="rect" id="node11" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_ingredient_list_builder.html#a6b9f75b9ef059913a916542e6a61bc76" title=" " alt="" coords="422,332,789,373"/>
+<area shape="rect" id="node12" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_infer_instruction_list_builder.html#a43d54455c1bc22044d275309e360544f" title=" " alt="" coords="420,397,791,439"/>
+<area shape="rect" id="node16" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_parametric_fields_builder.html#a80fd6243c165176b817b1dbba44d46f3" title=" " alt="" coords="422,463,789,504"/>
+<area shape="rect" id="node18" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_post_dispense_block_builder.html#a798b84e461f3d4158de20529bdcbe592" title=" " alt="" coords="422,201,789,243"/>
+<area shape="rect" id="node22" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1dispense_1_1_pre_dispense_block_builder.html#a7fd4eaa9f35f77f000f2a595f6f9e488" title=" " alt="" coords="422,267,789,308"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#af638e0c5358b592799e9b0b98570adf3" title=" " alt="" coords="839,136,1225,177"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a2edddb9b8eaba65b5b9afc7178218bc2" title=" " alt="" coords="1285,136,1672,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a9c9de5ea2003dba9d738f7a7bf0c5cdb" title=" " alt="" coords="1732,104,2119,145"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#af692f3a1d352cf96cb882c4c3faf8a35" title=" " alt="" coords="1732,169,2119,211"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cookmodules_1_1_cook_params_module_helper.html#ab969282be7ffd05d4bf817ea2872e87e" title=" " alt="" coords="2169,136,2535,177"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cookmodules_1_1_cook_params_module_helper.html#afbf1d4a73763d709b0f3b7a4e8cacfc0" title=" " alt="" coords="2167,201,2537,243"/>
+<area shape="rect" id="node13" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a7ebc7c4f2d74b50db1983155d94b8681" title=" " alt="" coords="839,397,1225,439"/>
+<area shape="rect" id="node14" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1factory_1_1_capture_block_factory.html#a56dd60932e759d8284100d7e26aee60d" title=" " alt="" coords="1273,397,1684,439"/>
+<area shape="rect" id="node15" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1factory_1_1_infer_block_factory.html#ae33349370022b7ffe7e627db3e26e2c9" title=" " alt="" coords="1273,463,1684,504"/>
+<area shape="rect" id="node17" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1_mx_equation_resolver.html#a7f650ee11da8f5b13ffa12893312f3fe" title=" " alt="" coords="881,463,1183,504"/>
+<area shape="rect" id="node19" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a52d51263c944938c5883b419f5c5b076" title=" " alt="" coords="839,201,1225,243"/>
+<area shape="rect" id="node20" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#ab7bbf3c24eb5d86710c6c1d94bb93dd1" title=" " alt="" coords="1285,267,1672,308"/>
+<area shape="rect" id="node21" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_post_dispense_task_provider.html#a25ed82c3c711976e2850af8c5aed4c02" title=" " alt="" coords="1292,201,1665,243"/>
+<area shape="rect" id="node23" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a3b1e5448e6f98c6ba3ac7c29cd94de7a" title=" " alt="" coords="839,267,1225,308"/>
+<area shape="rect" id="node24" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_pre_dispense_task_provider.html#a174d434f3c23dffe7aeec8946718b92f" title=" " alt="" coords="1292,332,1665,373"/>
+</map>

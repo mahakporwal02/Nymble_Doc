@@ -1,0 +1,4 @@
+var interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler_component =
+[
+    [ "buildFryingHandlerObject", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler_component.html#a7789211dbaa4d3e572a26a1af69112f8", null ]
+];

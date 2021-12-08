@@ -1,0 +1,5 @@
+<map id="cv::detail::AffineBestOf2NearestMatcher" name="cv::detail::AffineBestOf2NearestMatcher">
+<area shape="rect" id="node1" title="Features matcher similar to cv::detail::BestOf2NearestMatcher which finds two best matches for each f..." alt="" coords="15,169,194,211"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_best_of2_nearest_matcher.html" title="Features matcher which finds two best matches for each feature and leaves the best one only if the ra..." alt="" coords="9,80,201,121"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_features_matcher.html" title="Feature matchers base class." alt="" coords="5,5,204,32"/>
+</map>

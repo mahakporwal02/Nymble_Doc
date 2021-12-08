@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['uchar_21454',['UCHAR',['../group__core__basic.html#gga8af2ae1e077644d1dd232d29d988b79aa56283e7d906f746d62e95c8ba7814c3f',1,'cv']]],
+  ['uint64_21455',['UINT64',['../group__core__basic.html#gga8af2ae1e077644d1dd232d29d988b79aa6de7acf711860176ba606e9aa2b85d5f',1,'cv']]],
+  ['umat_21456',['UMAT',['../classcv_1_1___input_array.html#a0f6bead7579fcd0e30b15a5d6bf5b53ba3f0f082586ac549b0d2dc49dffc8b901',1,'cv::_InputArray']]],
+  ['unable_5fto_5fresolve_5ferror_21457',['Unable_To_Resolve_Error',['../namespaceinduction__state__machine.html#ac49b9f4854012e67c1d369a44ce85415a8d2f9c6c6fba46587910a980a94cb86a',1,'induction_state_machine']]],
+  ['undefined_21458',['UNDEFINED',['../classcv_1_1_file_storage.html#ab25ab28a95a47dd9cd9e26e71398dd3fa3e7f9ab4d3076f3fd61612e8b171930c',1,'cv::FileStorage']]],
+  ['uniform_21459',['UNIFORM',['../classcv_1_1_file_node.html#a842bed8bad355e523f6161f16cc583e3a2e16c1d9efd38bbe01ebb7b4125df45d',1,'cv::FileNode::UNIFORM()'],['../classcv_1_1_r_n_g.html#ae0feca638ad1b7a6656794871700d8d1af6797281458bec27565ee730ea228d4a',1,'cv::RNG::UNIFORM()']]],
+  ['unknown_5fvendor_21460',['UNKNOWN_VENDOR',['../classcv_1_1ocl_1_1_device.html#abd18b22f05533504229e3ee358bb021ea07b78e0f94127c1d35f5d69e03be32e3',1,'cv::ocl::Device']]],
+  ['unsigned_5fint_21461',['UNSIGNED_INT',['../group__core__basic.html#gga8af2ae1e077644d1dd232d29d988b79aa9ba5b3da1d35e22e1680ddbe52d36ed5',1,'cv']]],
+  ['update_5fposition_21462',['UPDATE_POSITION',['../_servo180_degree_enums_8h.html#af1a12313dd105a36a9964ebb147abf85acec9d0d42250ddf12303b3f291fda5af',1,'Servo180DegreeEnums.h']]],
+  ['update_5fstatus_5flbox_21463',['UPDATE_STATUS_LBOX',['../_liquid_o_il_dispense_enums_8h.html#a71ace48cd2d0168b1ad20dcfb545b60bae1f2689d7a8d33be64fa0c6b4e0bcb15',1,'LiquidOIlDispenseEnums.h']]],
+  ['upper_5flimit_5frevolutions_21464',['UPPER_LIMIT_REVOLUTIONS',['../_potentiometer_8h.html#a57bc41612154ba89a28cb8c6cd257da9ad14a89e075a7eae2fd28b2b148203863',1,'Potentiometer.h']]],
+  ['usage_5fallocate_5fdevice_5fmemory_21465',['USAGE_ALLOCATE_DEVICE_MEMORY',['../group__core__basic.html#gga5681439dda418431eb0a672697135ed2aeeff47f93f4e35ffed58e1b7de649dab',1,'cv']]],
+  ['usage_5fallocate_5fhost_5fmemory_21466',['USAGE_ALLOCATE_HOST_MEMORY',['../group__core__basic.html#gga5681439dda418431eb0a672697135ed2a37b195428a7ac50f293765907fa43ad9',1,'cv']]],
+  ['usage_5fallocate_5fshared_5fmemory_21467',['USAGE_ALLOCATE_SHARED_MEMORY',['../group__core__basic.html#gga5681439dda418431eb0a672697135ed2a0c30cfff62017d086c6ec4052589b569',1,'cv']]],
+  ['usage_5fdefault_21468',['USAGE_DEFAULT',['../group__core__basic.html#gga5681439dda418431eb0a672697135ed2ae383b08ee18b73d8c1588d968f953893',1,'cv']]],
+  ['use_5favg_21469',['USE_AVG',['../classcv_1_1_p_c_a.html#ae8a94a2add0555b0414e85c08ff67f50a3449339c21160478c308f64a6a941030',1,'cv::PCA']]],
+  ['user_5fallocated_21470',['USER_ALLOCATED',['../structcv_1_1_u_mat_data.html#a4aaeab7d089a219c65db6b6b62bd4d12a418bf779152a73ed41c8657baf911d82',1,'cv::UMatData']]]
+];

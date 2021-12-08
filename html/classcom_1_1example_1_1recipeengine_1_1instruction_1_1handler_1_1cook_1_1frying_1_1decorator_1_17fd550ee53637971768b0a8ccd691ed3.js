@@ -1,0 +1,5 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1decorator_1_17fd550ee53637971768b0a8ccd691ed3 =
+[
+    [ "setUp", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1decorator_1_17fd550ee53637971768b0a8ccd691ed3.html#a42c35683b4d8d1d9e35e63647a0f773e", null ],
+    [ "testGetVisualScore", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1decorator_1_17fd550ee53637971768b0a8ccd691ed3.html#a3158fe74fe04d9db0f21fda12b1f2904", null ]
+];

@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.adaptor.Adaptor.adapt" name="com.example.recipeengine.instruction.adaptor.Adaptor.adapt">
+<area shape="rect" id="node1" title=" " alt="" coords="456,39,785,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_base_cook_decorator.html#a5d2b3c12b1843adde2e25a899a72b07f" title=" " alt="" coords="19,5,395,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1decorator_1_1_base_dispense_decorator.html#abce9cfa57a3af3d8f7c04ed0f0a335e2" title=" " alt="" coords="5,71,408,112"/>
+</map>

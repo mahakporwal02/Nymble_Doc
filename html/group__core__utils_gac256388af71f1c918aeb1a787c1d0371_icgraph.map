@@ -1,0 +1,4 @@
+<map id="cvFloor" name="cvFloor">
+<area shape="rect" id="node1" title="Rounds floating&#45;point number to the nearest integer not larger than the original." alt="" coords="141,5,212,32"/>
+<area shape="rect" id="node2" href="$group__core__hal__intrin.html#ga6c95c494decd17905b43d47028370817" title="Floor." alt="" coords="5,5,93,32"/>
+</map>

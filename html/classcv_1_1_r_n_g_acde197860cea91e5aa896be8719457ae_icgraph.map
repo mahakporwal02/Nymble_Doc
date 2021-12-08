@@ -1,0 +1,4 @@
+<map id="cv::RNG::uniform" name="cv::RNG::uniform">
+<area shape="rect" id="node1" title="returns uniformly distributed integer random number from [a,b) range" alt="" coords="252,13,384,39"/>
+<area shape="rect" id="node2" href="$namespacecv_1_1ml.html#a706949f355668411097d4ffaaa0caddc" title=" " alt="" coords="5,5,204,47"/>
+</map>

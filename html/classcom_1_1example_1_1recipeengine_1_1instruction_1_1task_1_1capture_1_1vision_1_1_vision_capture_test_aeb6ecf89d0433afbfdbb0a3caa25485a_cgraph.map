@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.task.capture.vision.VisionCaptureTest.checkGetSensor" name="com.example.recipeengine.instruction.task.capture.vision.VisionCaptureTest.checkGetSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,409,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1captureconstants_1_1_capture_sensor.html#a3ff57021a24c7af17fba7f5d2cee4bcc" title=" " alt="" coords="457,5,991,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1_vision_capture.html#a213b4e0651d3c7f9e834eb255fde4297" title=" " alt="" coords="522,71,926,112"/>
+</map>

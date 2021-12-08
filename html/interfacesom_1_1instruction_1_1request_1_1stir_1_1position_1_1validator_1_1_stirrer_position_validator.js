@@ -1,0 +1,4 @@
+var interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1validator_1_1_stirrer_position_validator =
+[
+    [ "isPositionValid", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1validator_1_1_stirrer_position_validator.html#a187ea4e29886ff710c76088f23fc78fb", null ]
+];

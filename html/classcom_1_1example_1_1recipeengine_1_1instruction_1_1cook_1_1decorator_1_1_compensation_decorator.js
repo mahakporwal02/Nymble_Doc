@@ -1,0 +1,4 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_compensation_decorator =
+[
+    [ "CompensationDecorator", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_compensation_decorator.html#a696f6ac64996b0075c619bd381ad1481", null ]
+];

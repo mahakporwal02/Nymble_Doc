@@ -1,0 +1,6 @@
+<map id="cv::detail::AffineWarper" name="cv::detail::AffineWarper">
+<area shape="rect" id="node1" title="Affine warper that uses rotations and translations." alt="" coords="14,244,187,271"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_plane_warper.html" title="Warper that maps an image onto the z = 1 plane." alt="" coords="15,169,186,196"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node4" href="$classcv_1_1detail_1_1_rotation_warper.html" title="Rotation&#45;only model image warper interface." alt="" coords="5,5,196,32"/>
+</map>

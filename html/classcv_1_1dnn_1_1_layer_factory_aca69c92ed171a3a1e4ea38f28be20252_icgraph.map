@@ -1,0 +1,4 @@
+<map id="cv::dnn::LayerFactory::registerLayer" name="cv::dnn::LayerFactory::registerLayer">
+<area shape="rect" id="node1" title="Registers the layer class with typename type and specified constructor. Thread&#45;safe." alt="" coords="231,13,389,54"/>
+<area shape="rect" id="node2" href="$classcv_1_1dnn_1_1details_1_1___layer_static_registerer.html#a62c4bf62e583006385e2b80af90d9adc" title=" " alt="" coords="5,5,183,61"/>
+</map>

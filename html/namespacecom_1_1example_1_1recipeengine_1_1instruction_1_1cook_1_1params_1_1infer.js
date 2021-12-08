@@ -1,0 +1,6 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer =
+[
+    [ "InferParameters", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer_1_1_infer_parameters.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer_1_1_infer_parameters" ],
+    [ "InferParametersTest", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer_1_1_infer_parameters_test.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer_1_1_infer_parameters_test" ],
+    [ "InferParams", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer_1_1_infer_params.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1infer_1_1_infer_params" ]
+];

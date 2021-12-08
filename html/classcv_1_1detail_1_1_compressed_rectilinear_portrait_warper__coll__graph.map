@@ -1,0 +1,7 @@
+<map id="cv::detail::CompressedRectilinearPortraitWarper" name="cv::detail::CompressedRectilinearPortraitWarper">
+<area shape="rect" id="node1" title=" " alt="" coords="19,291,259,332"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="5,185,273,241"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_rotation_warper.html" title="Rotation&#45;only model image warper interface." alt="" coords="23,89,213,115"/>
+<area shape="rect" id="node4" href="$structcv_1_1detail_1_1_compressed_rectilinear_portrait_projector.html" title=" " alt="" coords="238,81,478,123"/>
+<area shape="rect" id="node5" href="$structcv_1_1detail_1_1_projector_base.html" title="Base class for warping logic implementation." alt="" coords="269,5,447,32"/>
+</map>

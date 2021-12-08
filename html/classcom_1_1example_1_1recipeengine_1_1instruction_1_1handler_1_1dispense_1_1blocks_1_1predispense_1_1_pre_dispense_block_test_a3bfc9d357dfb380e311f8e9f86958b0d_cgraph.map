@@ -1,0 +1,8 @@
+<map id="com.example.recipeengine.instruction.handler.dispense.blocks.predispense.PreDispenseBlockTest.checkGetExecutingTask" name="com.example.recipeengine.instruction.handler.dispense.blocks.predispense.PreDispenseBlockTest.checkGetExecutingTask">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,524,145"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_base_sequential_block.html#a2ec272cfc01e2cfe21c36c96b2483804" title=" " alt="" coords="572,5,997,47"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_task.html#abbe21fe051fabc097444c7ef404e7038" title=" " alt="" coords="587,71,983,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_base_sequential_block.html#ae2eb217e7412ef6c6f20bc06d521405c" title=" " alt="" coords="572,136,997,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_base_sequential_block.html#a20ce1c76ac7a61c6453da7805fe46913" title=" " alt="" coords="572,201,997,243"/>
+<area shape="rect" id="node6" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1base_1_1_task.html#a6747c6ecef09558af1723be425b8a7f4" title=" " alt="" coords="1045,201,1441,243"/>
+</map>

@@ -1,0 +1,5 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler =
+[
+    [ "MacroSizeCookingHandler", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler.html#a2227dff0bdf4708619003528026ea5d2", null ],
+    [ "getStatus", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler.html#aa8ffab16e7be335977144a180e3e7fd8", null ]
+];

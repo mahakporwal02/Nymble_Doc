@@ -1,0 +1,9 @@
+<map id="Computational Photography" name="Computational Photography">
+<area shape="rect" id="node1" href="$group__photo__denoise.html" title=" " alt="" coords="271,5,358,31"/>
+<area shape="rect" id="node2" href="$group__photo__inpaint.html" title=" " alt="" coords="271,55,358,80"/>
+<area shape="rect" id="node3" href="$group__photo__clone.html" title=" " alt="" coords="264,104,365,129"/>
+<area shape="rect" id="node4" href="$group__photo__hdr.html" title="This section describes high dynamic range imaging algorithms namely tonemapping, exposure alignment,..." alt="" coords="261,153,369,179"/>
+<area shape="rect" id="node5" title="This module includes photo processing algorithms." alt="" coords="5,129,209,155"/>
+<area shape="rect" id="node6" href="$group__photo__decolor.html" title=" " alt="" coords="257,203,372,228"/>
+<area shape="rect" id="node7" href="$group__photo__render.html" title=" " alt="" coords="261,252,369,277"/>
+</map>

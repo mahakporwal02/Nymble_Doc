@@ -1,0 +1,24 @@
+<map id="app/src/main/cpp/HardwareLibrary/HardwareService/Peripherals/I2C" name="app/src/main/cpp/HardwareLibrary/HardwareService/Peripherals/I2C">
+<area shape="rect" id="node2" href="dir_64aa1a7158684d80c2a5bed52f9ff944.html" title="I2CBus" alt="" coords="37,255,109,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000103_000104.html" title="2" alt="" coords="59,227,68,242"/>
+<area shape="rect" id="node4" href="dir_25af603b0596968c8a7cf78b3204cb16.html" title="I2CRequestProcessor" alt="" coords="70,159,229,207"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000103_000106.html" title="1" alt="" coords="171,138,180,153"/>
+<area shape="rect" id="node5" href="dir_6802202f02bc1e3686eb056ece421e81.html" title="Adc" alt="" coords="261,159,333,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000103_000084.html" title="3" alt="" coords="259,133,269,147"/>
+<area shape="rect" id="node6" href="dir_713b03e3fd3034a16dff5c1681838981.html" title="Pwm" alt="" coords="357,159,429,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000103_000107.html" title="2" alt="" coords="340,142,349,156"/>
+<area shape="rect" id="node8" href="dir_d1079f553dd2f70de9872a77be7e938c.html" title="Gpio" alt="" coords="453,159,525,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000103_000097.html" title="1" alt="" coords="434,142,444,156"/>
+<area shape="rect" id="node7" href="dir_928d28264f1dedd8d2cb339dbfedcc64.html" title="Error" alt="" coords="309,255,381,303"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000104_000039.html" title="1" alt="" coords="292,236,301,250"/>
+<area shape="rect" id="node3" href="dir_0acdaffdab0b0f2eee1d827a06b61384.html" title="I2CRequest" alt="" coords="133,255,229,303"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000106_000104.html" title="1" alt="" coords="105,238,115,253"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000106_000105.html" title="1" alt="" coords="171,227,180,242"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000107_000105.html" title="1" alt="" coords="245,250,254,265"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000107_000106.html" title="2" alt="" coords="205,151,214,166"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000107_000039.html" title="1" alt="" coords="368,235,378,250"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000039_000106.html" title="1" alt="" coords="205,215,215,230"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000097_000039.html" title="1" alt="" coords="396,244,405,259"/>
+<area shape="rect" id="clust2" href="dir_f39465887af6fda55b991ce0027d8394.html" alt="" coords="27,52,240,313"/>
+<area shape="rect" id="clust1" href="dir_225dfa33d11e33bbaaaf9cf9b2747ca0.html" title="Peripherals" alt="" coords="16,16,251,324"/>
+</map>

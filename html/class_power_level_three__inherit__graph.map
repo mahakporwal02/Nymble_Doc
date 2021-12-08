@@ -1,0 +1,5 @@
+<map id="PowerLevelThree" name="PowerLevelThree">
+<area shape="rect" id="node1" title=" " alt="" coords="21,155,156,181"/>
+<area shape="rect" id="node2" href="$class_pid_power_controller.html" title=" " alt="" coords="15,80,162,107"/>
+<area shape="rect" id="node3" href="$class_power_control_behavior.html" title=" " alt="" coords="5,5,172,32"/>
+</map>

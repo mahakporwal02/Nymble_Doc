@@ -1,0 +1,9 @@
+<map id="cv::detail::ImageFeatures" name="cv::detail::ImageFeatures">
+<area shape="rect" id="node1" title="Structure containing image keypoints and descriptors." alt="" coords="217,288,403,315"/>
+<area shape="rect" id="node2" href="$classcv_1_1_size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="198,199,329,225"/>
+<area shape="rect" id="node3" href="$classcv_1_1_u_mat.html" title=" " alt="" coords="353,199,432,225"/>
+<area shape="rect" id="node4" href="$structcv_1_1_u_mat_data.html" title=" " alt="" coords="133,109,244,136"/>
+<area shape="rect" id="node5" href="$classcv_1_1_mat_allocator.html" title="Custom array allocator." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node6" href="$structcv_1_1_mat_step.html" title=" " alt="" coords="413,109,511,136"/>
+<area shape="rect" id="node7" href="$structcv_1_1_mat_size.html" title=" " alt="" coords="535,109,631,136"/>
+</map>

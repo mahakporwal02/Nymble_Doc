@@ -1,0 +1,5 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1decorator_1_1_dry_wet_compensation_decorator =
+[
+    [ "DryWetCompensationDecorator", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1decorator_1_1_dry_wet_compensation_decorator.html#ae48cbcdf8a16ea4a97bbcb653adbae60", null ],
+    [ "getVisualScore", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1decorator_1_1_dry_wet_compensation_decorator.html#ac8178dab5977a17b35963e85b81f907e", null ]
+];

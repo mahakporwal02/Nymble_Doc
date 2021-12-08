@@ -1,0 +1,10 @@
+<map id="com.example.recipeengine.instruction.handler.cook.factory.InferBlockFactory.getInferBlockObject" name="com.example.recipeengine.instruction.handler.cook.factory.InferBlockFactory.getInferBlockObject">
+<area shape="rect" id="node1" title=" " alt="" coords="525,201,936,243"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_temperature_handler_module.html#a46823f851afab58d4e9fae422197bd45" title=" " alt="" coords="5,5,477,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a1db105c53dda68e0818eab90beff3977" title=" " alt="" coords="5,71,477,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_dry_wet_handler_module.html#aca6c092bd3d3de718e2bdfacf6ee5d69" title=" " alt="" coords="5,136,477,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_consistency_handler_module.html#af43c800997c5f69d060480537d25d1f5" title=" " alt="" coords="5,201,477,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_boiling_handler_module.html#afd92b27bf10f2bb1bbea4a5dfaa933f0" title=" " alt="" coords="5,267,477,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_frying_handler_module.html#ad5980cd64d5c5b26dce80a8fa6b950c9" title=" " alt="" coords="5,332,477,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_macro_size_handler_module.html#a9e2a129fafeb9c2695cc94ed874babf0" title=" " alt="" coords="5,397,477,439"/>
+</map>

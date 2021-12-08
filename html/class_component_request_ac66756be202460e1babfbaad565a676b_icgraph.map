@@ -1,0 +1,8 @@
+<map id="ComponentRequest::GetRequestType" name="ComponentRequest::GetRequestType">
+<area shape="rect" id="node1" title=" " alt="" coords="295,137,559,163"/>
+<area shape="rect" id="node2" href="$class_hardware_service.html#a0826b3358a0d16edaf17a5687cfe3fbf" title=" " alt="" coords="31,5,221,47"/>
+<area shape="rect" id="node3" href="$class_position_servo360.html#abc3cccfafd8a57e6fbda87d700ae2515" title=" " alt="" coords="29,71,223,112"/>
+<area shape="rect" id="node4" href="$class_servo360_degree.html#a38207e380f05eb3e3c6983d0f5c2c2c1" title=" " alt="" coords="5,137,247,163"/>
+<area shape="rect" id="node5" href="$class_servo180_degree.html#aa8bf671fd9aaba216b29329f7d4622f1" title=" " alt="" coords="5,187,247,214"/>
+<area shape="rect" id="node6" href="$class_servo360_macro.html#a07bfc2e86e227feac8ca93a828237dfe" title=" " alt="" coords="9,238,243,265"/>
+</map>

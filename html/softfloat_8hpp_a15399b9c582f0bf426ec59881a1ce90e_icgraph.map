@@ -1,0 +1,11 @@
+<map id="cvRound" name="cvRound">
+<area shape="rect" id="node1" title="Rounds a number to nearest even integer." alt="" coords="196,242,275,269"/>
+<area shape="rect" id="node2" href="$group__core__utils__softfloat.html#gac47f19b7b0a877667e37dc25873fa456" title=" " alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node3" href="$group__core__utils__softfloat.html#ga761f0568efff59d3adc8ac3a83b423a4" title=" " alt="" coords="5,71,148,112"/>
+<area shape="rect" id="node4" href="$group__core__utils__softfloat.html#ga84f9d5ac20f3334fe662dea956e7ff46" title=" " alt="" coords="5,136,148,177"/>
+<area shape="rect" id="node5" href="$group__core__utils__softfloat.html#gaa1f21ab0a0a9f0a325e3378224535189" title=" " alt="" coords="5,201,148,243"/>
+<area shape="rect" id="node6" href="$group__core__utils__softfloat.html#gabf59e3093f441c47f86115961f0fd73d" title=" " alt="" coords="5,267,148,308"/>
+<area shape="rect" id="node7" href="$group__core__utils__softfloat.html#gabce86878d2e10edca5e624974fbb3d23" title=" " alt="" coords="5,332,148,373"/>
+<area shape="rect" id="node8" href="$group__core__utils__softfloat.html#ga753aab461dd1c60a1d914a2372afe000" title="Saturate cast to unsigned integer and unsigned long long integer We intentionally do not clip negativ..." alt="" coords="5,397,148,439"/>
+<area shape="rect" id="node9" href="$group__core__utils__softfloat.html#ga825ac01a6feb853f21b9c19764198bf0" title=" " alt="" coords="5,463,148,504"/>
+</map>

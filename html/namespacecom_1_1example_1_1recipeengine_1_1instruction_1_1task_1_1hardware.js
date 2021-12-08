@@ -1,0 +1,7 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware =
+[
+    [ "stirrer", "namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer.html", "namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer" ],
+    [ "HardwareTaskProvider", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_hardware_task_provider.html", "interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_hardware_task_provider" ],
+    [ "PostDispenseTaskProvider", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_post_dispense_task_provider.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_post_dispense_task_provider" ],
+    [ "PreDispenseTaskProvider", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_pre_dispense_task_provider.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1_pre_dispense_task_provider" ]
+];

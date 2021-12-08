@@ -1,0 +1,7 @@
+<map id="cv::Tonemap" name="cv::Tonemap">
+<area shape="rect" id="node1" title="Base class for tonemapping algorithms &#45; tools that are used to map HDR image to 8&#45;bit range." alt="" coords="199,80,301,107"/>
+<area shape="rect" id="node3" href="$classcv_1_1_tonemap_drago.html" title="Adaptive logarithmic mapping is a fast global tonemapping algorithm that scales the image in logarith..." alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node4" href="$classcv_1_1_tonemap_mantiuk.html" title="This algorithm transforms image to contrast using gradients on all levels of gaussian pyramid,..." alt="" coords="172,155,328,181"/>
+<area shape="rect" id="node5" href="$classcv_1_1_tonemap_reinhard.html" title="This is a global tonemapping operator that models human visual system." alt="" coords="352,155,513,181"/>
+<area shape="rect" id="node2" href="$classcv_1_1_algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="196,5,304,32"/>
+</map>

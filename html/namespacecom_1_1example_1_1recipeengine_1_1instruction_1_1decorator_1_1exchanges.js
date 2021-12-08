@@ -1,0 +1,6 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges =
+[
+    [ "ExecutionParams", "enumcom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges_1_1_execution_params.html", "enumcom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges_1_1_execution_params" ],
+    [ "InstructionInputParams", "enumcom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges_1_1_instruction_input_params.html", "enumcom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges_1_1_instruction_input_params" ],
+    [ "OutputParams", "enumcom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges_1_1_output_params.html", "enumcom_1_1example_1_1recipeengine_1_1instruction_1_1decorator_1_1exchanges_1_1_output_params" ]
+];

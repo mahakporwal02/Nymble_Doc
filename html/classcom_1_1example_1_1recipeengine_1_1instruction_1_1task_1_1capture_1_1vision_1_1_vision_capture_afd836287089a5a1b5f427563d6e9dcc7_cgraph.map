@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.instruction.task.capture.vision.VisionCapture.propertyChange" name="com.example.recipeengine.instruction.task.capture.vision.VisionCapture.propertyChange">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,409,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1_sensor_params.html#a80e004db6cacaa5ab5e2da8b2995d6f8" title=" " alt="" coords="543,5,905,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1params_1_1capture_1_1captureconstants_1_1_trigger_type.html#ae98bf5c2b06d275f02295ea6dc3ee93f" title=" " alt="" coords="457,71,991,112"/>
+</map>

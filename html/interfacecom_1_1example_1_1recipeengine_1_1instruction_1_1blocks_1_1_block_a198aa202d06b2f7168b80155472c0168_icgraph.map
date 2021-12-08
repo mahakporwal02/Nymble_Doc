@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.blocks.Block.pause" name="com.example.recipeengine.instruction.blocks.Block.pause">
+<area shape="rect" id="node1" title=" " alt="" coords="925,29,1248,70"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler_test.html#a50b8a02d1f4a7568b3e9f54a2a0fd95e" title=" " alt="" coords="5,33,404,74"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_dispense_handler.html#abd62032c4df91dfd80c7aee551c91ca2" title=" " alt="" coords="452,29,877,70"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1base_1_1_base_cooking_handler.html#a9564d51ff5494c2d2622306a35c193ab" title=" " alt="" coords="465,94,864,136"/>
+</map>

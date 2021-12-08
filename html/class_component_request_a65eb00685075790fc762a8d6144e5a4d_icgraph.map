@@ -1,0 +1,9 @@
+<map id="ComponentRequest::GetPosition" name="ComponentRequest::GetPosition">
+<area shape="rect" id="node1" title=" " alt="" coords="295,173,528,199"/>
+<area shape="rect" id="node2" href="$class_macro_container_behavior.html#a474b7f8a8851a05a17036c04109cf616" title=" " alt="" coords="35,5,217,47"/>
+<area shape="rect" id="node3" href="$class_micro_pod_behavior.html#a093707988bfaae5b8474e857ea1a4de3" title=" " alt="" coords="27,71,225,112"/>
+<area shape="rect" id="node4" href="$class_position_servo360.html#abc3cccfafd8a57e6fbda87d700ae2515" title=" " alt="" coords="29,136,223,177"/>
+<area shape="rect" id="node5" href="$class_servo360_degree.html#a38207e380f05eb3e3c6983d0f5c2c2c1" title=" " alt="" coords="5,202,247,229"/>
+<area shape="rect" id="node6" href="$class_servo180_degree.html#aa8bf671fd9aaba216b29329f7d4622f1" title=" " alt="" coords="5,253,247,279"/>
+<area shape="rect" id="node7" href="$class_servo360_macro.html#a07bfc2e86e227feac8ca93a828237dfe" title=" " alt="" coords="9,303,243,330"/>
+</map>

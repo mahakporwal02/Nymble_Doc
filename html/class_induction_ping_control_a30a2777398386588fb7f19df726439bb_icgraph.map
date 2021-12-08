@@ -1,0 +1,7 @@
+<map id="InductionPingControl::PingControl" name="InductionPingControl::PingControl">
+<area shape="rect" id="node1" title=" " alt="" coords="488,64,645,105"/>
+<area shape="rect" id="node2" href="$class_pid_power_controller.html#a3f5dccd2e9126710f8083bb841af1de5" title=" " alt="" coords="265,5,412,47"/>
+<area shape="rect" id="node3" href="$class_pan_detection.html#a670177a47258615d8340476c3196068c" title=" " alt="" coords="247,71,430,98"/>
+<area shape="rect" id="node5" href="$class_power_level_control_behavior.html#acc42ec68bee265ce8027e36d08021ab4" title=" " alt="" coords="237,123,440,164"/>
+<area shape="rect" id="node4" href="$class_induction_heater.html#a3b04870662b9ac6a18c7c248d0b75c75" title=" " alt="" coords="5,64,189,105"/>
+</map>

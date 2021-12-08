@@ -1,0 +1,14 @@
+<map id="ComponentRequest::SetFrequency" name="ComponentRequest::SetFrequency">
+<area shape="rect" id="node1" title=" " alt="" coords="576,202,823,229"/>
+<area shape="rect" id="node2" href="$class_pan_detection.html#a670177a47258615d8340476c3196068c" title=" " alt="" coords="315,13,498,39"/>
+<area shape="rect" id="node4" href="$class_micro_clockwise_dispense_behavior.html#a911e217e1f305bacfd8dde8684ef34a7" title=" " alt="" coords="285,64,528,105"/>
+<area shape="rect" id="node5" href="$class_micro_anti_clockwise_dispense_behavior.html#a8427b3fe8c7b1d03f5264d4eb0d495cd" title=" " alt="" coords="301,129,512,171"/>
+<area shape="rect" id="node6" href="$class_liquid_water_dispense_behavior.html#a36820b05e5eed7b96d343bad39406991" title=" " alt="" coords="298,195,515,236"/>
+<area shape="rect" id="node7" href="$class_liquid_oil_dispense_behavior.html#a272b8d03625f7e930f61637be10d9d46" title=" " alt="" coords="308,260,505,301"/>
+<area shape="rect" id="node8" href="$class_induction_sensor_reader.html#a2b7ea0898223702d02237c9e5c0df8b0" title=" " alt="" coords="321,325,493,367"/>
+<area shape="rect" id="node10" href="$class_power_level_control_behavior.html#a06ad9378f6fd0d3f21e357c05d9de0e9" title=" " alt="" coords="305,391,508,432"/>
+<area shape="rect" id="node3" href="$class_induction_heater.html#a3b04870662b9ac6a18c7c248d0b75c75" title=" " alt="" coords="29,5,213,47"/>
+<area shape="rect" id="node9" href="$class_base_induction_controller.html#a243f9dce30ca77d28fbcc3e2d7561299" title=" " alt="" coords="32,325,211,367"/>
+<area shape="rect" id="node11" href="$class_power_level_zero_control_behavior.html#a7f19395e92cf75d56cabebe85ad0672f" title=" " alt="" coords="5,391,237,432"/>
+<area shape="rect" id="node12" href="$class_power_level_control_behavior.html#acc42ec68bee265ce8027e36d08021ab4" title=" " alt="" coords="20,456,223,497"/>
+</map>

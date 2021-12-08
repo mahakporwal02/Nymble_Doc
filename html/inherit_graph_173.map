@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,72,235"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1action_1_1_action_task_thread.html" title=" " alt="" coords="173,5,525,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_sync_vision_thermal_thread.html" title=" " alt="" coords="120,71,577,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_thermal_camera_thread.html" title=" " alt="" coords="120,136,577,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1vision_1_1threads_1_1_vision_camera_thread.html" title=" " alt="" coords="120,201,577,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1capture_1_1weight_1_1_weight_sensor_thread.html" title=" " alt="" coords="144,267,553,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1dispense_1_1_dispense_task_thread.html" title=" " alt="" coords="163,332,534,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer_1_1_stir_pos_task_thread.html" title=" " alt="" coords="141,397,556,439"/>
+</map>

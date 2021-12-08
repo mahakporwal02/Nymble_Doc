@@ -1,0 +1,7 @@
+<map id="com.example.recipeengine.instruction.handler.cook.consistency.ConsistencyAction" name="com.example.recipeengine.instruction.handler.cook.consistency.ConsistencyAction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,348,448,389"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1action_1_1_base_action_block.html" title=" " alt="" coords="23,259,430,300"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1action_1_1_action_block.html" title=" " alt="" coords="23,169,430,211"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_block.html" title=" " alt="" coords="65,80,388,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="183,5,270,32"/>
+</map>

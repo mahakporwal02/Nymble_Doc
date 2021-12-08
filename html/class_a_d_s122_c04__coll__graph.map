@@ -1,0 +1,9 @@
+<map id="ADS122C04" name="ADS122C04">
+<area shape="rect" id="node1" title=" " alt="" coords="71,363,170,389"/>
+<area shape="rect" id="node2" href="$class_adc.html" title=" " alt="" coords="76,273,123,300"/>
+<area shape="rect" id="node3" href="$class_macro_weight.html" title=" " alt="" coords="147,273,254,300"/>
+<area shape="rect" id="node4" href="$class_load_cell.html" title=" " alt="" coords="161,184,240,211"/>
+<area shape="rect" id="node5" href="$class_load_cell_offset_calibration.html" title=" " alt="" coords="5,95,193,121"/>
+<area shape="rect" id="node6" href="$class_moving_average.html" title=" " alt="" coords="141,5,263,32"/>
+<area shape="rect" id="node7" href="$class_load_cell_reading_grams.html" title=" " alt="" coords="217,95,392,121"/>
+</map>

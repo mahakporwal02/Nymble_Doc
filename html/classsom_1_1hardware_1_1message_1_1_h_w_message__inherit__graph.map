@@ -1,0 +1,6 @@
+<map id="som.hardware.message.HWMessage" name="som.hardware.message.HWMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,268,105"/>
+<area shape="rect" id="node2" href="$classsom_1_1hardware_1_1message_1_1action_1_1_action_request.html" title=" " alt="" coords="328,5,555,47"/>
+<area shape="rect" id="node3" href="$classsom_1_1hardware_1_1message_1_1command_1_1_command_request.html" title=" " alt="" coords="316,71,567,112"/>
+<area shape="rect" id="node4" href="$classsom_1_1hardware_1_1message_1_1sensor_1_1_h_w_sensor_request.html" title=" " alt="" coords="327,136,555,177"/>
+</map>

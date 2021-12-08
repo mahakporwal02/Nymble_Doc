@@ -1,0 +1,11 @@
+<map id="temperature" name="temperature">
+<area shape="rect" id="node1" title="function doing the main calculations to convert the raw sensor values into final temperature matrix." alt="" coords="955,137,1057,163"/>
+<area shape="rect" id="node2" href="$food_detect_8cpp.html#ab48461a709fd66124ee1ef9d5937adc5" title=" " alt="" coords="600,19,765,46"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_params_decorator.html#a67ac90a40a2c14a997f2f1e906f24bb0" title=" " alt="" coords="495,71,871,112"/>
+<area shape="rect" id="node7" href="$class_thermal_camera.html#ad42ff658e4b8c2223e730d6ded113739" title=" " alt="" coords="563,137,802,163"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1info_1_1cook_1_1_action_information.html#a71d4c6c65a77ca51d602b4aef2964f3d" title=" " alt="" coords="513,188,853,229"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_params.html#a591664f141f7b98db6965275c92020d0" title=" " alt="" coords="459,253,907,295"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_params_decorator_test.html#abd183a3b99de8dc433923f0e6b650c7e" title=" " alt="" coords="20,5,396,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_params_decorator_test.html#a14d2588ff0f39ae09ae08ef37b70b1eb" title=" " alt="" coords="5,71,411,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1cook_1_1decorator_1_1_params_decorator_test.html#a1703283a6c8c5d73eb77594a6c38e4cc" title=" " alt="" coords="20,137,396,193"/>
+</map>

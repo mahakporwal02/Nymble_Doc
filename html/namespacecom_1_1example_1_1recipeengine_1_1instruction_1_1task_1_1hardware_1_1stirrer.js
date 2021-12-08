@@ -1,0 +1,5 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer =
+[
+    [ "StirPosTaskThread", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer_1_1_stir_pos_task_thread.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer_1_1_stir_pos_task_thread" ],
+    [ "StirrerPositionTask", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer_1_1_stirrer_position_task.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1task_1_1hardware_1_1stirrer_1_1_stirrer_position_task" ]
+];

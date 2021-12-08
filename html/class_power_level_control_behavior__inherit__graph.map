@@ -1,0 +1,13 @@
+<map id="PowerLevelControlBehavior" name="PowerLevelControlBehavior">
+<area shape="rect" id="node1" title=" " alt="" coords="196,208,399,235"/>
+<area shape="rect" id="node3" href="$class_idle_behavior.html" title=" " alt="" coords="516,5,620,32"/>
+<area shape="rect" id="node4" href="$class_power_level_five_control_behavior.html" title=" " alt="" coords="453,56,683,83"/>
+<area shape="rect" id="node5" href="$class_power_level_four_control_behavior.html" title=" " alt="" coords="453,107,683,133"/>
+<area shape="rect" id="node6" href="$class_power_level_one_control_behavior.html" title=" " alt="" coords="454,157,682,184"/>
+<area shape="rect" id="node7" href="$class_power_level_seven_control_behavior.html" title=" " alt="" coords="447,208,689,235"/>
+<area shape="rect" id="node8" href="$class_power_level_six_control_behavior.html" title=" " alt="" coords="457,259,679,285"/>
+<area shape="rect" id="node9" href="$class_power_level_three_behavior.html" title=" " alt="" coords="472,309,664,336"/>
+<area shape="rect" id="node10" href="$class_power_level_two_control_behavior.html" title=" " alt="" coords="455,360,681,387"/>
+<area shape="rect" id="node11" href="$class_power_level_zero_control_behavior.html" title=" " alt="" coords="452,411,684,437"/>
+<area shape="rect" id="node2" href="$class_sequence_behavior.html" title=" " alt="" coords="5,208,148,235"/>
+</map>

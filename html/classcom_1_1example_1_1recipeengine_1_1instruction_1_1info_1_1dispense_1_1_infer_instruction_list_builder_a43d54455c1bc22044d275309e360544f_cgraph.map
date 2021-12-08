@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.info.dispense.InferInstructionListBuilder.provideListInferInstructions" name="com.example.recipeengine.instruction.info.dispense.InferInstructionListBuilder.provideListInferInstructions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,376,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1factory_1_1dispense_1_1_dispense_factory.html#a7ebc7c4f2d74b50db1983155d94b8681" title=" " alt="" coords="424,39,811,80"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1factory_1_1_capture_block_factory.html#a56dd60932e759d8284100d7e26aee60d" title=" " alt="" coords="859,5,1269,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1factory_1_1_infer_block_factory.html#ae33349370022b7ffe7e627db3e26e2c9" title=" " alt="" coords="859,71,1269,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.example.recipeengine.instruction.task.dispense.DispenseTask.beginTask" name="com.example.recipeengine.instruction.task.dispense.DispenseTask.beginTask">
+<area shape="rect" id="node1" title=" " alt="" coords="1572,39,1943,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1dispense_1_1_dispense_block.html#acd027aa9129d6cb86cfa922b683548ef" title=" " alt="" coords="1025,39,1524,80"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1blocks_1_1dispense_1_1_dispense_block_test.html#a4568987ecd77dfdd849d98f5fd7b95ed" title=" " alt="" coords="479,5,977,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_dispense_handler.html#ad89924457f8224da7c3e1057ca85419c" title=" " alt="" coords="515,71,941,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_dispense_handler_test.html#af6fb7481cd6a69524799d0a8dd995d9a" title=" " alt="" coords="5,5,431,47"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_dispense_handler_test.html#aa79cf318037863640aad11fb1049df49" title=" " alt="" coords="5,71,431,112"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1dispense_1_1base_1_1_dispense_handler_test.html#add2e199d74078c6d5b4befe74a99ae5b" title=" " alt="" coords="5,136,431,177"/>
+</map>

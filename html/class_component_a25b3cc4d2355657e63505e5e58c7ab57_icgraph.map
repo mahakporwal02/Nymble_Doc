@@ -1,0 +1,7 @@
+<map id="Component::GetComponentId" name="Component::GetComponentId">
+<area shape="rect" id="node1" title=" " alt="" coords="264,97,479,123"/>
+<area shape="rect" id="node2" href="$class_induction_actuator.html#a566e14a11e5865ae133249e5f5eac6a6" title=" " alt="" coords="38,5,183,47"/>
+<area shape="rect" id="node3" href="$class_buzzer.html#a34bd772e2084108e6a13d2cb0a5bbcaf" title=" " alt="" coords="22,71,199,98"/>
+<area shape="rect" id="node4" href="$class_exhaust_fan.html#a6afc94be4ba93a4bc661c1c7a63ca964" title=" " alt="" coords="7,122,214,149"/>
+<area shape="rect" id="node5" href="$class_led_actuator.html#ab40461c88dd7bf78da85669c8cb46d09" title=" " alt="" coords="5,173,216,199"/>
+</map>

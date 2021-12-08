@@ -1,0 +1,26 @@
+var data_8h =
+[
+    [ "setArrayData", "data_8h.html#a2f7f1350b0fc615a312b37c08d7df46d", null ],
+    [ "setDoubleData", "data_8h.html#a4707e35db6cf8c8ec6af46e3c62e88c2", null ],
+    [ "setFloatData", "data_8h.html#a9f1c4e6b0595ce14490ca215818ab0be", null ],
+    [ "setIntData", "data_8h.html#a70b1a4dc7c502ca584a699fb7145b472", null ],
+    [ "setMatrixData", "data_8h.html#a3c235db138fd0d3917127a5313311a0e", null ],
+    [ "globalgain", "data_8h.html#a1c7fac2a494e499c6f316330bfd9fb31", null ],
+    [ "gradscale", "data_8h.html#a978d7a0f2a4cb799afccaa469d7a9bf4", null ],
+    [ "pcscaleval", "data_8h.html#ab41517c0b398d058aef7c6e3687637b9", null ],
+    [ "pixc_max", "data_8h.html#a45b4d5f424723ebdfca4a9d11b4b2199", null ],
+    [ "pixc_min", "data_8h.html#a072fc4f22cc0dc771c735789f298af9a", null ],
+    [ "pmatrix", "data_8h.html#a5d394c4942b55bca6719961a11135650", null ],
+    [ "ptat_grad", "data_8h.html#afdbc3a7622ed551ae61111629d4f8952", null ],
+    [ "ptat_offset", "data_8h.html#a2d42f463ab2c5dd5d6005f98d4d6eb66", null ],
+    [ "ptat_th1", "data_8h.html#abed6d5938f009082aa81a8be151a93b2", null ],
+    [ "ptat_th2", "data_8h.html#af7d788dee6901a04a1af799946c6696b", null ],
+    [ "thgrad", "data_8h.html#adb92aee191bc6358871d2a2b8587b39c", null ],
+    [ "thoffset", "data_8h.html#a5fed86034d6bdb0f989fb01682aa047b", null ],
+    [ "vdd_th1", "data_8h.html#afe97ac1a0ad74a9571aac33d87c69859", null ],
+    [ "vdd_th2", "data_8h.html#a8a4f9f12c85c6370986fd9fbb50625aa", null ],
+    [ "vddcompgrad", "data_8h.html#a91713f5b241265b35022297687ba9254", null ],
+    [ "vddcompoff", "data_8h.html#ab8fb7c6a4561fa35c70403b3f56d8017", null ],
+    [ "vddscgrad", "data_8h.html#ac5e16ef2a98d3efb0147abf3e0023a7a", null ],
+    [ "vddscoff", "data_8h.html#a2a448e8e9fb6007617e0f6a362430131", null ]
+];

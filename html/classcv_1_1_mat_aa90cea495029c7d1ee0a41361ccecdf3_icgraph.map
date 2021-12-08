@@ -1,0 +1,4 @@
+<map id="cv::Mat::isContinuous" name="cv::Mat::isContinuous">
+<area shape="rect" id="node1" title="Reports whether the matrix is continuous or not." alt="" coords="280,5,441,32"/>
+<area shape="rect" id="node2" href="$group__flann.html#gaf89c8914eb439855c9a24c3de01bfd82" title="Clusters features using hierarchical k&#45;means algorithm." alt="" coords="5,5,232,32"/>
+</map>

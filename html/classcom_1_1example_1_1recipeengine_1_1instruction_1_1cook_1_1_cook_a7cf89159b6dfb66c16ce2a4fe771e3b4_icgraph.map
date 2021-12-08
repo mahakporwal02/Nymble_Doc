@@ -1,0 +1,10 @@
+<map id="com.example.recipeengine.instruction.cook.Cook.getSourceTasks" name="com.example.recipeengine.instruction.cook.Cook.getSourceTasks">
+<area shape="rect" id="node1" title=" " alt="" coords="525,201,836,243"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_temperature_handler_module.html#a51757188cd3eb66c3611bc51a9f7ae38" title=" " alt="" coords="5,5,477,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a477f7eb085d4fafcc01016eae7f0c591" title=" " alt="" coords="5,71,477,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_dry_wet_handler_module.html#a085081fcd6ab32b5a0b08a9975e2315b" title=" " alt="" coords="5,136,477,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_consistency_handler_module.html#ae142c867674f7e070c2190f3d5550045" title=" " alt="" coords="5,201,477,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_boiling_handler_module.html#af202de52d5c37e779dec112cfa82e1f9" title=" " alt="" coords="5,267,477,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_frying_handler_module.html#a4a50f7dd460159ef9e7420f1120ca570" title=" " alt="" coords="5,332,477,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_macro_size_handler_module.html#a87eecdd04a0e68c34a09904630d35431" title=" " alt="" coords="5,397,477,439"/>
+</map>

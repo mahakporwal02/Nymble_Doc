@@ -1,0 +1,6 @@
+<map id="cv::MinProblemSolver" name="cv::MinProblemSolver">
+<area shape="rect" id="node1" title="Basic interface for all solvers." alt="" coords="81,80,243,107"/>
+<area shape="rect" id="node3" href="$classcv_1_1_conj_grad_solver.html" title="This class is used to perform the non&#45;linear non&#45;constrained minimization of a function with known gr..." alt="" coords="5,155,151,181"/>
+<area shape="rect" id="node4" href="$classcv_1_1_downhill_solver.html" title="This class is used to perform the non&#45;linear non&#45;constrained minimization of a function,..." alt="" coords="175,155,317,181"/>
+<area shape="rect" id="node2" href="$classcv_1_1_algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="108,5,216,32"/>
+</map>

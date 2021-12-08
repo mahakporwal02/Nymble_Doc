@@ -1,0 +1,4 @@
+var namespacecom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1factory =
+[
+    [ "DispenseFactoryTest", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1factory_1_1_dispense_factory_test.html", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1dispense_1_1factory_1_1_dispense_factory_test" ]
+];

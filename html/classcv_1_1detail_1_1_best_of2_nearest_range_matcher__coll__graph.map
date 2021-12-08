@@ -1,0 +1,14 @@
+<map id="cv::detail::BestOf2NearestRangeMatcher" name="cv::detail::BestOf2NearestRangeMatcher">
+<area shape="rect" id="node1" title=" " alt="" coords="313,601,505,643"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_best_of2_nearest_matcher.html" title="Features matcher which finds two best matches for each feature and leaves the best one only if the ra..." alt="" coords="313,511,505,552"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_features_matcher.html" title="Feature matchers base class." alt="" coords="211,414,409,441"/>
+<area shape="rect" id="node4" href="$structcv_1_1detail_1_1_image_features.html" title="Structure containing image keypoints and descriptors." alt="" coords="206,295,393,322"/>
+<area shape="rect" id="node5" href="$classcv_1_1_size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="187,199,318,225"/>
+<area shape="rect" id="node6" href="$classcv_1_1_u_mat.html" title=" " alt="" coords="343,199,421,225"/>
+<area shape="rect" id="node7" href="$structcv_1_1_u_mat_data.html" title=" " alt="" coords="133,109,244,136"/>
+<area shape="rect" id="node8" href="$classcv_1_1_mat_allocator.html" title="Custom array allocator." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node9" href="$structcv_1_1_mat_step.html" title=" " alt="" coords="413,109,511,136"/>
+<area shape="rect" id="node10" href="$structcv_1_1_mat_size.html" title=" " alt="" coords="535,109,631,136"/>
+<area shape="rect" id="node11" href="$structcv_1_1_ptr.html" title=" " alt="" coords="437,407,591,448"/>
+<area shape="rect" id="node12" title=" " alt="" coords="417,288,616,329"/>
+</map>

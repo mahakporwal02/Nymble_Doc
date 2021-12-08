@@ -1,0 +1,23 @@
+<map id="app/src/main/jniIncludes/opencv2/core/simd_intrinsics.hpp" name="app/src/main/jniIncludes/opencv2/core/simd_intrinsics.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="648,5,891,47"/>
+<area shape="rect" id="node2" href="$cvdef_8h.html" title=" " alt="" coords="377,333,537,360"/>
+<area shape="rect" id="node8" href="$cv__cpu__dispatch_8h.html" title=" " alt="" coords="5,408,147,435"/>
+<area shape="rect" id="node12" href="$core_2version_8hpp.html" title=" " alt="" coords="889,95,1079,121"/>
+<area shape="rect" id="node13" href="$intrin_8hpp.html" title=" " alt="" coords="599,95,707,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="543,408,614,435"/>
+<area shape="rect" id="node4" href="$core_2hal_2interface_8h.html" title=" " alt="" coords="638,408,845,435"/>
+<area shape="rect" id="node7" title=" " alt="" coords="471,483,542,509"/>
+<area shape="rect" id="node9" title=" " alt="" coords="463,408,519,435"/>
+<area shape="rect" id="node10" href="$fast__math_8hpp.html" title=" " alt="" coords="181,408,387,435"/>
+<area shape="rect" id="node5" title=" " alt="" coords="755,483,829,509"/>
+<area shape="rect" id="node6" title=" " alt="" coords="648,483,731,509"/>
+<area shape="rect" id="node11" title=" " alt="" coords="250,483,318,509"/>
+<area shape="rect" id="node14" title=" " alt="" coords="518,177,581,203"/>
+<area shape="rect" id="node15" title=" " alt="" coords="657,177,719,203"/>
+<area shape="rect" id="node16" title=" " alt="" coords="743,177,814,203"/>
+<area shape="rect" id="node17" href="$intrin__cpp_8hpp.html" title=" " alt="" coords="323,169,493,211"/>
+<area shape="rect" id="node18" title=" " alt="" coords="104,259,163,285"/>
+<area shape="rect" id="node19" title=" " alt="" coords="405,259,472,285"/>
+<area shape="rect" id="node20" title=" " alt="" coords="496,259,581,285"/>
+<area shape="rect" id="node21" href="$saturate_8hpp.html" title=" " alt="" coords="187,259,381,285"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="app/src/main/cpp/HardwareLibrary/HardwareService" name="app/src/main/cpp/HardwareLibrary/HardwareService">
+<area shape="rect" id="node4" href="dir_39d91645aa77eeef0e19a1faa069b12a.html" title="SequenceExecutor" alt="" coords="187,159,328,207"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000041_000115.html" title="2" alt="" coords="274,137,283,151"/>
+<area shape="rect" id="node6" href="dir_ae28e0883a8dcc1e9af54bc721339b39.html" title="Subsystem" alt="" coords="403,159,498,207"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000041_000134.html" title="16" alt="" coords="391,135,408,149"/>
+<area shape="rect" id="node9" href="dir_fcc6acb2711238f9dd661e85f2e4c5fa.html" title="BaseHardwareService" alt="" coords="573,159,739,207"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000041_000020.html" title="1" alt="" coords="553,140,562,155"/>
+<area shape="rect" id="node2" href="dir_b4367c7683ec53498b7db973317b0f1a.html" title="HardwareComponent" alt="" coords="37,63,197,111"/>
+<area shape="rect" id="node3" href="dir_225dfa33d11e33bbaaaf9cf9b2747ca0.html" title="Peripherals" alt="" coords="67,159,162,207"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000042_000083.html" title="10" alt="" coords="106,133,124,147"/>
+<area shape="rect" id="node7" href="dir_928d28264f1dedd8d2cb339dbfedcc64.html" title="Error" alt="" coords="387,255,459,303"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000042_000039.html" title="3" alt="" coords="407,227,416,242"/>
+<area shape="rect" id="node8" href="dir_bcd9c4d1db61b069ac38a3447e48adee.html" title="Component" alt="" coords="486,255,583,303"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000042_000033.html" title="10" alt="" coords="537,229,554,244"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000083_000042.html" title="1" alt="" coords="112,122,122,137"/>
+<area shape="rect" id="node5" href="dir_b3a89a12043252e9e29eeafe75ef06a0.html" title="Timer" alt="" coords="181,255,253,303"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000083_000116.html" title="1" alt="" coords="180,229,189,243"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000083_000039.html" title="3" alt="" coords="368,243,377,258"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000115_000134.html" title="8" alt="" coords="380,167,389,182"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000134_000116.html" title="3" alt="" coords="269,257,278,271"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000134_000039.html" title="4" alt="" coords="438,232,447,247"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000134_000033.html" title="3" alt="" coords="504,228,513,243"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000039_000083.html" title="1" alt="" coords="172,205,181,220"/>
+<area shape="rect" id="clust2" href="dir_f1c4f1c9561f3bde73c1e5e1f130a903.html" alt="" coords="27,52,365,313"/>
+<area shape="rect" id="clust1" href="dir_367a419fc288466e395c2e3ef926b39f.html" title="HardwareLibrary" alt="" coords="16,16,376,324"/>
+</map>

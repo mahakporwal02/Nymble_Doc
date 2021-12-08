@@ -1,0 +1,4 @@
+<map id="cv::detail::NoExposureCompensator" name="cv::detail::NoExposureCompensator">
+<area shape="rect" id="node1" title="Stub exposure compensator which does nothing." alt="" coords="5,80,260,107"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_exposure_compensator.html" title="Base class for all exposure compensators." alt="" coords="15,5,251,32"/>
+</map>

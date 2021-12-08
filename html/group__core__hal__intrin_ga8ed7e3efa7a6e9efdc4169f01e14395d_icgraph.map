@@ -1,0 +1,4 @@
+<map id="cv::v_dotprod_expand" name="cv::v_dotprod_expand">
+<area shape="rect" id="node1" title="Dot product of elements and expand." alt="" coords="249,5,413,32"/>
+<area shape="rect" id="node2" href="$group__core__hal__intrin.html#ga12fce245493c002417ba29be0fc4b341" title="Fast Dot product of elements and expand." alt="" coords="5,5,201,32"/>
+</map>

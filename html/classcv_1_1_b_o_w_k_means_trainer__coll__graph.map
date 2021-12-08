@@ -1,0 +1,5 @@
+<map id="cv::BOWKMeansTrainer" name="cv::BOWKMeansTrainer">
+<area shape="rect" id="node1" title="kmeans &#45;based class to train visual vocabulary using the bag of visual words approach...." alt="" coords="53,95,225,121"/>
+<area shape="rect" id="node2" href="$classcv_1_1_b_o_w_trainer.html" title="Abstract base class for training the bag of visual words vocabulary from a set of descriptors." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node3" href="$classcv_1_1_term_criteria.html" title="The class defining termination criteria for iterative algorithms." alt="" coords="150,5,274,32"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="SubsystemComponent" name="SubsystemComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="151,461,320,488"/>
+<area shape="rect" id="node3" href="$class_gpio_control_output.html" title=" " alt="" coords="371,5,513,32"/>
+<area shape="rect" id="node4" href="$class_igbt_temperature.html" title=" " alt="" coords="377,56,507,83"/>
+<area shape="rect" id="node5" href="$class_induction_actuator.html" title=" " alt="" coords="373,107,511,133"/>
+<area shape="rect" id="node6" href="$class_induction_heater.html" title=" " alt="" coords="379,157,505,184"/>
+<area shape="rect" id="node7" href="$class_input_current.html" title=" " alt="" coords="391,208,493,235"/>
+<area shape="rect" id="node8" href="$class_input_voltage.html" title=" " alt="" coords="390,259,494,285"/>
+<area shape="rect" id="node9" href="$class_macro360_feedback.html" title=" " alt="" coords="368,309,516,336"/>
+<area shape="rect" id="node10" href="$class_macro_feedback.html" title=" " alt="" coords="380,360,504,387"/>
+<area shape="rect" id="node11" href="$class_macro_mux.html" title=" " alt="" coords="397,411,487,437"/>
+<area shape="rect" id="node12" href="$class_micro_feedback.html" title=" " alt="" coords="382,461,502,488"/>
+<area shape="rect" id="node13" href="$class_micro_mux.html" title=" " alt="" coords="399,512,485,539"/>
+<area shape="rect" id="node14" href="$class_pan_temperature.html" title=" " alt="" coords="379,563,505,589"/>
+<area shape="rect" id="node15" href="$class_position_servo360.html" title=" " alt="" coords="375,613,509,640"/>
+<area shape="rect" id="node16" href="$class_pump.html" title=" " alt="" coords="413,664,471,691"/>
+<area shape="rect" id="node17" href="$class_servo180_degree.html" title=" " alt="" coords="377,715,507,741"/>
+<area shape="rect" id="node18" href="$class_servo360_degree.html" title=" " alt="" coords="377,765,507,792"/>
+<area shape="rect" id="node19" href="$class_servo360_macro.html" title=" " alt="" coords="381,816,503,843"/>
+<area shape="rect" id="node20" href="$class_stirrer_current.html" title=" " alt="" coords="387,867,497,893"/>
+<area shape="rect" id="node21" href="$class_stirrer_motor.html" title=" " alt="" coords="392,917,492,944"/>
+<area shape="rect" id="node2" href="$class_component.html" title=" " alt="" coords="5,461,103,488"/>
+</map>

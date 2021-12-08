@@ -1,0 +1,7 @@
+<map id="som.instruction.request.visionCamera.VisionCamera" name="som.instruction.request.visionCamera.VisionCamera">
+<area shape="rect" id="node1" title=" " alt="" coords="564,57,783,98"/>
+<area shape="rect" id="node2" href="$classsom_1_1instruction_1_1request_1_1_request.html" title=" " alt="" coords="335,57,515,98"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node4" href="$enumsom_1_1instruction_1_1request_1_1_request_type.html" title=" " alt="" coords="14,57,194,98"/>
+<area shape="rect" id="node5" href="$classsom_1_1instruction_1_1handler_1_1_instruction_handler.html" title=" " alt="" coords="15,122,193,163"/>
+</map>

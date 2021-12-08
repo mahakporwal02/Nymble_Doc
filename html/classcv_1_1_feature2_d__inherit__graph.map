@@ -1,0 +1,13 @@
+<map id="cv::Feature2D" name="cv::Feature2D">
+<area shape="rect" id="node1" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="161,208,272,235"/>
+<area shape="rect" id="node3" href="$classcv_1_1_agast_feature_detector.html" title="Wrapping class for feature detection using the AGAST method. :" alt="" coords="320,5,507,32"/>
+<area shape="rect" id="node4" href="$classcv_1_1_a_k_a_z_e.html" title="Class implementing the AKAZE keypoint detector and descriptor extractor, described in ." alt="" coords="369,56,457,83"/>
+<area shape="rect" id="node5" href="$classcv_1_1_b_r_i_s_k.html" title="Class implementing the BRISK keypoint detector and descriptor extractor, described in &#160;." alt="" coords="372,107,455,133"/>
+<area shape="rect" id="node6" href="$classcv_1_1_fast_feature_detector.html" title="Wrapping class for feature detection using the FAST method. :" alt="" coords="326,157,501,184"/>
+<area shape="rect" id="node7" href="$classcv_1_1_g_f_t_t_detector.html" title="Wrapping class for feature detection using the goodFeaturesToTrack function. :" alt="" coords="347,208,480,235"/>
+<area shape="rect" id="node8" href="$classcv_1_1_k_a_z_e.html" title="Class implementing the KAZE keypoint detector and descriptor extractor, described in &#160;." alt="" coords="374,259,453,285"/>
+<area shape="rect" id="node9" href="$classcv_1_1_m_s_e_r.html" title="Maximally stable extremal region extractor." alt="" coords="373,309,454,336"/>
+<area shape="rect" id="node10" href="$classcv_1_1_o_r_b.html" title="Class implementing the ORB (oriented BRIEF) keypoint detector and descriptor extractor." alt="" coords="377,360,449,387"/>
+<area shape="rect" id="node11" href="$classcv_1_1_simple_blob_detector.html" title="Class for extracting blobs from an image. :" alt="" coords="326,411,501,437"/>
+<area shape="rect" id="node2" href="$classcv_1_1_algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,208,113,235"/>
+</map>

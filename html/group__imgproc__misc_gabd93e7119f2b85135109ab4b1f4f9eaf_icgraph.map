@@ -1,0 +1,4 @@
+<map id="cv::threshold" name="cv::threshold">
+<area shape="rect" id="node1" title="Applies a fixed&#45;level threshold to each array element." alt="" coords="228,5,333,32"/>
+<area shape="rect" id="node2" href="$classcv_1_1_b_r_i_s_k.html#ac422c36c77109112a0bb4119f80fe409" title="Set detection threshold." alt="" coords="5,5,180,32"/>
+</map>

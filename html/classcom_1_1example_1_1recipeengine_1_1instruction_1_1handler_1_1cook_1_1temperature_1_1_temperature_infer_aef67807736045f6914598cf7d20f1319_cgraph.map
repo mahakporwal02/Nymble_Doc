@@ -1,0 +1,10 @@
+<map id="com.example.recipeengine.instruction.handler.cook.temperature.TemperatureInfer.infer" name="com.example.recipeengine.instruction.handler.cook.temperature.TemperatureInfer.infer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,453,243"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1_native_1_1_native_util.html#af7fe130da23ec919ce55356a6a5a5835" title=" " alt="" coords="587,5,864,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1capture_1_1_captured_task_data.html#aa980125f876f903b89fdf3e7a589ab80" title=" " alt="" coords="538,71,913,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_params.html#a8c69663d2fd1a40fac5ae82af9bc2cf9" title=" " alt="" coords="501,136,949,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1temperature_1_1_temperature_params.html#a1fff3438efd97ac54ac1c0cb49b18071" title=" " alt="" coords="501,201,949,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1infer_1_1_base_infer_block.html#a1603b92038f2a2885fae7dbf3cc5c06c" title=" " alt="" coords="527,267,923,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1capture_1_1_captured_task_data.html#a0cd21fc7672935ca882a8e5845769a10" title=" " alt="" coords="538,332,913,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1util_1_1_native_1_1_native_util.html#a6c62f198a2ef5f47927236a7f2f35911" title=" " alt="" coords="580,397,871,439"/>
+</map>

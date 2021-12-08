@@ -1,0 +1,17 @@
+<map id="BaseStateMachine::Execute" name="BaseStateMachine::Execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,238,208,265"/>
+<area shape="rect" id="node2" href="$class_power_controller.html#a2ff38927b258c43d907f589253a98a4c" title=" " alt="" coords="279,5,460,47"/>
+<area shape="rect" id="node3" href="$class_error_detector.html#aa16b27441f8165f4e86735b4a3453506" title=" " alt="" coords="277,71,462,112"/>
+<area shape="rect" id="node4" href="$group__core__utils.html#gacd16baf6d8976a88d1b4d860a36125af" title="Signals an error and raises the exception." alt="" coords="332,137,407,163"/>
+<area shape="rect" id="node5" href="$class_power_controller.html#ae63d1320c572af5f2a0c893ef32ef034" title=" " alt="" coords="256,187,483,214"/>
+<area shape="rect" id="node6" href="$class_error_resolver.html#a641eda101a489ef27e93a978c162e017" title=" " alt="" coords="276,238,463,265"/>
+<area shape="rect" id="node7" href="$class_error_detector.html#a9012ec3424385cdb8d0ed4c90f08b786" title=" " alt="" coords="277,289,462,315"/>
+<area shape="rect" id="node8" href="$class_error_resolver.html#a8150d0dd083d806a8109f1caf8e499bd" title=" " alt="" coords="269,339,470,366"/>
+<area shape="rect" id="node9" href="$class_error_detector.html#a2dda963aad86aded5c4a0ae54e998047" title=" " alt="" coords="264,390,475,417"/>
+<area shape="rect" id="node10" href="$class_power_controller.html#a9dc52e60686e1dc6503e93f179249012" title=" " alt="" coords="270,441,469,483"/>
+<area shape="rect" id="node11" href="$class_hardware_service_factory.html#ad3b7207abf731b4f68149d5453a744e8" title=" " alt="" coords="568,357,748,399"/>
+<area shape="rect" id="node13" href="$class_component_request.html#a4ee4246b79901aa5173d8bb6144942ec" title=" " alt="" coords="531,423,785,450"/>
+<area shape="rect" id="node14" href="$class_component_request.html#ac546d8ea51460d978c6b1bf907622e08" title=" " alt="" coords="549,474,767,501"/>
+<area shape="rect" id="node15" href="$class_component_request.html#af986fdc80d9900e5a8d893a874d55cdf" title=" " alt="" coords="551,525,765,551"/>
+<area shape="rect" id="node12" href="$class_hardware_service_factory.html#ae417df3d31a59ad4ec0937c893d1ec9d" title=" " alt="" coords="833,357,1021,399"/>
+</map>

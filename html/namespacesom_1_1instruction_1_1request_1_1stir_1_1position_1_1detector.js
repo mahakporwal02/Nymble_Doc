@@ -1,0 +1,7 @@
+var namespacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector =
+[
+    [ "ArucoBasedDetector", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_aruco_based_detector.html", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_aruco_based_detector" ],
+    [ "ModelBasedDetector", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_model_based_detector.html", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_model_based_detector" ],
+    [ "StirrerAngleDetector", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_angle_detector.html", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_angle_detector" ],
+    [ "StirrerDetector", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_detector.html", "classsom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_detector" ]
+];

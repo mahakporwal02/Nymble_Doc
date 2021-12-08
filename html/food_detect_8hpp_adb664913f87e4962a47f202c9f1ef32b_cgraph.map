@@ -1,0 +1,8 @@
+<map id="CreateThermalImage" name="CreateThermalImage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,165,133"/>
+<area shape="rect" id="node2" href="$group__imgproc__colormap.html#ga50674f13ec8b7d97cebc72ff27433d8a" title="Applies a GNU Octave/MATLAB equivalent colormap on a given image." alt="" coords="213,5,356,32"/>
+<area shape="rect" id="node3" href="$classcv_1_1_mat.html#adf88c60c5b4980e05bb556080916978b" title="Converts an array to another data type with optional scaling." alt="" coords="215,56,355,83"/>
+<area shape="rect" id="node4" href="$classcv_1_1_mat.html#a33fd5d125b4c302b0c9aa86980791a77" title="Copies the matrix to another one." alt="" coords="223,107,346,133"/>
+<area shape="rect" id="node5" href="$group__imgproc__transform.html#gab636441be60a7aae25cd95e42e642266" title="Resizes an image." alt="" coords="243,157,326,184"/>
+<area shape="rect" id="node6" href="$group__core__array.html#ga8ee3ceef6ade48fbfd81199dd058c3a5" title="Rotates a 2D array in multiples of 90 degrees. The function cv::rotate rotates the array in one of th..." alt="" coords="243,208,326,235"/>
+</map>

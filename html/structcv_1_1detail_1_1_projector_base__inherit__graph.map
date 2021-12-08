@@ -1,0 +1,17 @@
+<map id="cv::detail::ProjectorBase" name="cv::detail::ProjectorBase">
+<area shape="rect" id="node1" title="Base class for warping logic implementation." alt="" coords="5,391,184,418"/>
+<area shape="rect" id="node2" href="$structcv_1_1detail_1_1_compressed_rectilinear_portrait_projector.html" title=" " alt="" coords="232,5,472,47"/>
+<area shape="rect" id="node3" href="$structcv_1_1detail_1_1_compressed_rectilinear_projector.html" title=" " alt="" coords="232,71,472,112"/>
+<area shape="rect" id="node4" href="$structcv_1_1detail_1_1_cylindrical_portrait_projector.html" title=" " alt="" coords="249,136,455,177"/>
+<area shape="rect" id="node5" href="$structcv_1_1detail_1_1_cylindrical_projector.html" title=" " alt="" coords="244,202,460,229"/>
+<area shape="rect" id="node6" href="$structcv_1_1detail_1_1_fisheye_projector.html" title=" " alt="" coords="253,253,451,279"/>
+<area shape="rect" id="node7" href="$structcv_1_1detail_1_1_mercator_projector.html" title=" " alt="" coords="249,303,455,330"/>
+<area shape="rect" id="node8" href="$structcv_1_1detail_1_1_panini_portrait_projector.html" title=" " alt="" coords="264,355,440,396"/>
+<area shape="rect" id="node9" href="$structcv_1_1detail_1_1_panini_projector.html" title=" " alt="" coords="259,421,445,447"/>
+<area shape="rect" id="node10" href="$structcv_1_1detail_1_1_plane_portrait_projector.html" title=" " alt="" coords="265,472,439,513"/>
+<area shape="rect" id="node11" href="$structcv_1_1detail_1_1_plane_projector.html" title=" " alt="" coords="261,538,443,565"/>
+<area shape="rect" id="node12" href="$structcv_1_1detail_1_1_spherical_portrait_projector.html" title=" " alt="" coords="253,589,451,631"/>
+<area shape="rect" id="node13" href="$structcv_1_1detail_1_1_spherical_projector.html" title=" " alt="" coords="249,655,455,682"/>
+<area shape="rect" id="node14" href="$structcv_1_1detail_1_1_stereographic_projector.html" title=" " alt="" coords="263,707,441,748"/>
+<area shape="rect" id="node15" href="$structcv_1_1detail_1_1_transverse_mercator_projector.html" title=" " alt="" coords="243,772,461,813"/>
+</map>

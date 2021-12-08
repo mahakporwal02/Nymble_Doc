@@ -1,0 +1,5 @@
+<map id="com.example.recipeengine.engine.chef.Chef" name="com.example.recipeengine.engine.chef.Chef">
+<area shape="rect" id="node1" title=" " alt="" coords="336,46,648,73"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_interruptable.html" title=" " alt="" coords="5,5,288,47"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1engine_1_1chef_1_1_interruptable_with_error.html" title=" " alt="" coords="5,71,288,112"/>
+</map>

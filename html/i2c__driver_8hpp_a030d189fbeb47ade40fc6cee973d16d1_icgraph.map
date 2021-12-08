@@ -1,0 +1,9 @@
+<map id="i2c_detect" name="i2c_detect">
+<area shape="rect" id="node1" title=" " alt="" coords="791,56,880,83"/>
+<area shape="rect" id="node2" href="$i2c__driver_8hpp.html#a987440ba22638dfccca6c35f71586b17" title=" " alt="" coords="590,5,669,32"/>
+<area shape="rect" id="node3" href="$class_i2_c_bus.html#a7332a007154b1b58f6d833826e00c04d" title=" " alt="" coords="516,56,743,83"/>
+<area shape="rect" id="node6" href="$class_i2_c_bus.html#af4fbc2401b25b0f8f4cc7ab57242c98c" title=" " alt="" coords="564,108,695,135"/>
+<area shape="rect" id="node4" href="$class_i2_c_request_processor.html#ae99226c5619abc9cf30d8f378c359857" title=" " alt="" coords="309,46,468,87"/>
+<area shape="rect" id="node5" href="$native-nymble_8cpp.html#a2b596f3f0aeded59ab918928ad90f14a" title=" " alt="" coords="5,46,261,87"/>
+<area shape="rect" id="node7" href="$class_i2_c.html#a02b16113dc58323610ad908864012f08" title=" " alt="" coords="335,112,443,139"/>
+</map>

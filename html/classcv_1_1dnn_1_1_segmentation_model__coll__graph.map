@@ -1,0 +1,7 @@
+<map id="cv::dnn::SegmentationModel" name="cv::dnn::SegmentationModel">
+<area shape="rect" id="node1" title="This class represents high&#45;level API for segmentation models." alt="" coords="5,247,212,273"/>
+<area shape="rect" id="node2" href="$classcv_1_1dnn_1_1_model.html" title="This class is presented high&#45;level API for neural networks." alt="" coords="51,171,167,197"/>
+<area shape="rect" id="node3" href="$classcv_1_1dnn_1_1_net.html" title="This class allows to create and manipulate comprehensive artificial neural networks." alt="" coords="38,81,137,108"/>
+<area shape="rect" id="node4" href="$structcv_1_1_ptr.html" title=" " alt="" coords="161,81,283,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="133,5,311,32"/>
+</map>

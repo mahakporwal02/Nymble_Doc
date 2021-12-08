@@ -1,0 +1,8 @@
+<map id="app/src/main/cpp/HardwareLibrary/HardwareService/HardwareComponent/AnalogFeedback/InductionAnalogSensors" name="app/src/main/cpp/HardwareLibrary/HardwareService/HardwareComponent/AnalogFeedback/InductionAnalogSensors">
+<area shape="rect" id="node2" href="dir_b6167f3e10da6b9f3d36c1d32ddc6b20.html" title="IgbtTemperature" alt="" coords="445,63,574,111"/>
+<area shape="rect" id="node3" href="dir_5a227c03f8cb20624b1c2b2c1cdddbd5.html" title="InputCurrent" alt="" coords="318,63,421,111"/>
+<area shape="rect" id="node4" href="dir_60f2279a95f2696684465d20ba211c40.html" title="InputVoltage" alt="" coords="189,63,293,111"/>
+<area shape="rect" id="node5" href="dir_43cd95f65aa2ce569c541a2c511ee707.html" title="PanTemperature" alt="" coords="38,63,165,111"/>
+<area shape="rect" id="clust2" href="dir_bc2f7b73ae62bd307b4c29c748d598a9.html" alt="" coords="27,52,788,121"/>
+<area shape="rect" id="clust1" href="dir_e98a9e2721cd60964dadc6ed721a81e6.html" title="AnalogFeedback" alt="" coords="16,16,799,132"/>
+</map>

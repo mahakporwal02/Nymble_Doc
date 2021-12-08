@@ -1,0 +1,7 @@
+<map id="som.instruction.request.stir.position.manager.StirrerPositionManager" name="som.instruction.request.stir.position.manager.StirrerPositionManager">
+<area shape="rect" id="node1" title=" " alt="" coords="528,104,849,145"/>
+<area shape="rect" id="node2" href="$interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1actuator_1_1_stirrer_actuator.html" title=" " alt="" coords="7,5,325,47"/>
+<area shape="rect" id="node3" href="$interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1detector_1_1_stirrer_angle_detector.html" title=" " alt="" coords="7,71,325,112"/>
+<area shape="rect" id="node4" href="$interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1finder_1_1_stirrer_range_finder.html" title=" " alt="" coords="16,136,316,177"/>
+<area shape="rect" id="node5" href="$interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1validator_1_1_stirrer_position_validator.html" title=" " alt="" coords="5,201,327,243"/>
+</map>

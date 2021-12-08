@@ -1,0 +1,4 @@
+var interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stirrer_position_manager_component =
+[
+    [ "buildsStirrerPositionManager", "interfacesom_1_1instruction_1_1request_1_1stir_1_1position_1_1manager_1_1_stirrer_position_manager_component.html#a07c615f132222e76775a017700f90d97", null ]
+];

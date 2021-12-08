@@ -1,0 +1,6 @@
+<map id="IgbtTemperature" name="IgbtTemperature">
+<area shape="rect" id="node1" title=" " alt="" coords="92,155,221,181"/>
+<area shape="rect" id="node2" href="$class_analog_feedback.html" title=" " alt="" coords="5,80,135,107"/>
+<area shape="rect" id="node3" href="$class_subsystem_component.html" title=" " alt="" coords="159,80,328,107"/>
+<area shape="rect" id="node4" href="$class_component.html" title=" " alt="" coords="195,5,292,32"/>
+</map>

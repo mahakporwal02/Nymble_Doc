@@ -1,0 +1,8 @@
+var classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module =
+[
+    [ "WattageHandlerModule", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#afaae1fd0745e50498820c98eb601eea6", null ],
+    [ "provideActionBlock", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a83cae91c9eff0142528cd350d1c625d1", null ],
+    [ "provideCaptureBlock", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a477f7eb085d4fafcc01016eae7f0c591", null ],
+    [ "provideCookObject", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a926c08564b8e83cc8b42e20c37e844bb", null ],
+    [ "provideInferBlock", "classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a1db105c53dda68e0818eab90beff3977", null ]
+];

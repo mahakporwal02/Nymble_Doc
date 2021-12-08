@@ -1,0 +1,8 @@
+<map id="com.example.recipeengine.instruction.handler.cook.status.BaseInstStatus.getVerboseStatus" name="com.example.recipeengine.instruction.handler.cook.status.BaseInstStatus.getVerboseStatus">
+<area shape="rect" id="node1" title=" " alt="" coords="548,136,955,177"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1boiling_1_1_boiling_cooking_handler_test.html#a602b8b2e7cf4bc925c773ed901122c15" title=" " alt="" coords="47,5,458,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1consistency_1_1_consistency_cooking_handler_test.html#a9236de28524c60d0bb77d9fe47a0f1b3" title=" " alt="" coords="31,71,474,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1drywet_1_1_dry_wet_cooking_handler_test.html#ae9c7cb8bdc15926322287d724ccad814" title=" " alt="" coords="47,136,459,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1frying_1_1_frying_cooking_handler_test.html#a4e80b86069f9c0cc2ba4a1e65c69b11b" title=" " alt="" coords="50,201,455,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1macrosizereduction_1_1_macro_size_cooking_handler_test.html#a5ed0d6792d96155f6b88a4e037dd5449" title=" " alt="" coords="5,267,500,308"/>
+</map>

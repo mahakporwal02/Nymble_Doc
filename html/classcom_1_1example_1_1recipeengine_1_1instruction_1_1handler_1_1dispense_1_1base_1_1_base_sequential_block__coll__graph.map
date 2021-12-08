@@ -1,0 +1,6 @@
+<map id="com.example.recipeengine.instruction.handler.dispense.base.BaseSequentialBlock" name="com.example.recipeengine.instruction.handler.dispense.base.BaseSequentialBlock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,431,300"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_sequential_task_block.html" title=" " alt="" coords="57,169,379,211"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1example_1_1recipeengine_1_1instruction_1_1blocks_1_1_block.html" title=" " alt="" coords="57,80,379,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="175,5,261,32"/>
+</map>

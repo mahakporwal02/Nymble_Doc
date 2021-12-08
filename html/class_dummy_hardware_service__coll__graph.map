@@ -1,0 +1,12 @@
+<map id="DummyHardwareService" name="DummyHardwareService">
+<area shape="rect" id="node1" title=" " alt="" coords="250,289,435,316"/>
+<area shape="rect" id="node2" href="$class_base_hardware_service.html" title=" " alt="" coords="5,200,171,227"/>
+<area shape="rect" id="node3" href="$class_i2_c.html" title=" " alt="" coords="195,200,237,227"/>
+<area shape="rect" id="node4" href="$class_i2_c_bus.html" title=" " alt="" coords="183,81,249,108"/>
+<area shape="rect" id="node5" href="$class_gpio_request_processor.html" title=" " alt="" coords="261,200,429,227"/>
+<area shape="rect" id="node6" href="$class_s_o_m___gpio.html" title=" " alt="" coords="287,81,377,108"/>
+<area shape="rect" id="node7" href="$class_gpio.html" title=" " alt="" coords="359,5,411,32"/>
+<area shape="rect" id="node8" href="$class_pca9535.html" title=" " alt="" coords="401,81,479,108"/>
+<area shape="rect" id="node9" href="$class_pwm_request_processor.html" title=" " alt="" coords="453,200,624,227"/>
+<area shape="rect" id="node10" href="$class_adc_request_processor.html" title=" " alt="" coords="657,200,820,227"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="com.example.recipeengine.instruction.handler.cook.factory.ActionBlockFactory.getActionBlockObject" name="com.example.recipeengine.instruction.handler.cook.factory.ActionBlockFactory.getActionBlockObject">
+<area shape="rect" id="node1" title=" " alt="" coords="525,267,936,308"/>
+<area shape="rect" id="node2" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1factory_1_1_action_block_factory_test.html#a1eca0530021ab3ec82bb1ad926ff9f51" title=" " alt="" coords="36,5,447,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1factory_1_1_action_block_factory_test.html#a615172f8f86e11752ad68c77dc3468df" title=" " alt="" coords="36,71,447,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_temperature_handler_module.html#a9d20dc6341bb42273ae8342ce7d69607" title=" " alt="" coords="5,136,477,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_wattage_handler_module.html#a83cae91c9eff0142528cd350d1c625d1" title=" " alt="" coords="5,201,477,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_dry_wet_handler_module.html#a82ed05f69e9bca87f49699ff288836a2" title=" " alt="" coords="5,267,477,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_consistency_handler_module.html#aea90768390eacc6c75e47c9b80400a64" title=" " alt="" coords="5,332,477,373"/>
+<area shape="rect" id="node8" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_boiling_handler_module.html#a31f15457d96cec1901fec68800cf2a34" title=" " alt="" coords="5,397,477,439"/>
+<area shape="rect" id="node9" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_frying_handler_module.html#acfb3d0db5dc72b2222ca1c043bd3f34e" title=" " alt="" coords="5,463,477,504"/>
+<area shape="rect" id="node10" href="$classcom_1_1example_1_1recipeengine_1_1instruction_1_1handler_1_1cook_1_1handlermodules_1_1_macro_size_handler_module.html#a77fa022300a4e7f0d109515e790b8579" title=" " alt="" coords="5,528,477,569"/>
+</map>

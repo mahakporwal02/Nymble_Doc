@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['k_17693',['k',['../structcv_1_1detail_1_1_projector_base.html#a13770d3c6e1e9b022ad33e72bb714af4',1,'cv::detail::ProjectorBase']]],
+  ['k_5frinv_17694',['k_rinv',['../structcv_1_1detail_1_1_projector_base.html#a7a37f06fe4a12966ac6fb98d21cc1815',1,'cv::detail::ProjectorBase']]],
+  ['kbytes_17695',['kBytes',['../classcv_1_1_o_r_b.html#ac166094ca013f59bfe3df3b86fa40bfe',1,'cv::ORB']]],
+  ['kd_17696',['kd',['../struct_dispense_pid.html#a887873e52c38875c1668010844c5a7bf',1,'DispensePid::kd()'],['../struct_p_i_d.html#ac8f8dd4ddd347ff859db4e1dc3af90d5',1,'PID::kd()']]],
+  ['kernel_17697',['kernel',['../classcv_1_1dnn_1_1_base_convolution_layer.html#ad00834a85ad39019705046e384f78cdb',1,'cv::dnn::BaseConvolutionLayer::kernel()'],['../classcv_1_1dnn_1_1_pooling_layer.html#a7393c27f6f67df16ecbbc6ede88b1e26',1,'cv::dnn::PoolingLayer::kernel()'],['../group__core__opencl.html#gae185e7368708018ba2f51709eb4e17c6',1,'cv::ocl::Kernel()'],['../group__imgproc__c.html#ga863a75780ba6c5de552f5361cb0d2c89',1,'kernel():&#160;imgproc_c.h']]],
+  ['kernel_5fsize_17698',['kernel_size',['../classcv_1_1dnn_1_1_base_convolution_layer.html#a1229c351c1dd2b7aae546d3816284de4',1,'cv::dnn::BaseConvolutionLayer::kernel_size()'],['../classcv_1_1dnn_1_1_pooling_layer.html#aab876ae45604006daac43cd46e2d69bf',1,'cv::dnn::PoolingLayer::kernel_size()']]],
+  ['key_5fcooking_5fsession_5fid_17699',['KEY_COOKING_SESSION_ID',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#a9e202ccefbdcf8a9cd13b24ee89bcdab',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5fdebug_5frecord_5fthermal_17700',['KEY_DEBUG_RECORD_THERMAL',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#aa40dafe7acb9503fa0407e8c5153b1a2',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5ffirst_5frun_17701',['KEY_FIRST_RUN',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#a247d40f46d76e7f9f4f094f0b0ed720a',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5fget_5fcamera_5fparams_17702',['KEY_GET_CAMERA_PARAMS',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#a2554001253fd84f008d53dd3b1291ffb',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5fget_5find_5fparams_17703',['KEY_GET_IND_PARAMS',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#a8346a520341468957b57890eea19798c',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5fget_5fthermal_5fdata_17704',['KEY_GET_THERMAL_DATA',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#ae4fa42b5d892b12d4df927fd2e757f86',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5fsession_5fuploading_17705',['KEY_SESSION_UPLOADING',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#a93d494d1c8d3862fdf225251ccca3032',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['key_5fuse_5foz_5funit_17706',['KEY_USE_OZ_UNIT',['../classcom_1_1example_1_1recipeengine_1_1util_1_1_app_prefs.html#a37530e7a4f82c8d304214fe34a9c11e6',1,'com::example::recipeengine::util::AppPrefs']]],
+  ['keypoints_17707',['keypoints',['../classcv_1_1_b_o_w_img_descriptor_extractor.html#a0c0dd4e916057d4c90e9e766a12faa11',1,'cv::BOWImgDescriptorExtractor::keypoints()'],['../structcv_1_1detail_1_1_image_features.html#a1defd2a583122cb6360ab12c6333212b',1,'cv::detail::ImageFeatures::keypoints()']]],
+  ['keypoints1_17708',['keypoints1',['../group__features2d__draw.html#ga9cd84f42e433f0d0c3825a287aa408d9',1,'cv']]],
+  ['keypoints2_17709',['keypoints2',['../group__features2d__draw.html#ga2d2779a3507b47ef6aecf59cba890eac',1,'cv']]],
+  ['keypointscale_17710',['keypointScale',['../structcv_1_1_circles_grid_finder_parameters.html#a57110170e035dce2debad5d70be633e4',1,'cv::CirclesGridFinderParameters']]],
+  ['ki_17711',['ki',['../struct_dispense_pid.html#afcce4478a7ae04c3f5a2aaa36252b886',1,'DispensePid::ki()'],['../struct_p_i_d.html#af2b185d6025a735e294c3ca698562648',1,'PID::ki()']]],
+  ['kmean_17712',['kMean',['../structk_mean.html#afed43dfb05d3984bb59921c04447b707',1,'kMean']]],
+  ['kmeansattempts_17713',['kmeansAttempts',['../structcv_1_1_circles_grid_finder_parameters.html#a0498cf419285c16f49d865a43e7fe19c',1,'cv::CirclesGridFinderParameters']]],
+  ['kp_17714',['kp',['../struct_dispense_pid.html#ad98a3048ea49b84cd972620deb29a65c',1,'DispensePid::kp()'],['../struct_p_i_d.html#a9bff6d497fdd262f6f0f74a76604d22a',1,'PID::kp()']]]
+];

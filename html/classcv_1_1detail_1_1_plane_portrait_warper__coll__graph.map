@@ -1,0 +1,7 @@
+<map id="cv::detail::PlanePortraitWarper" name="cv::detail::PlanePortraitWarper">
+<area shape="rect" id="node1" title=" " alt="" coords="35,276,209,317"/>
+<area shape="rect" id="node2" href="$classcv_1_1detail_1_1_rotation_warper_base.html" title=" " alt="" coords="9,185,235,227"/>
+<area shape="rect" id="node3" href="$classcv_1_1detail_1_1_rotation_warper.html" title="Rotation&#45;only model image warper interface." alt="" coords="5,89,196,115"/>
+<area shape="rect" id="node4" href="$structcv_1_1detail_1_1_plane_portrait_projector.html" title=" " alt="" coords="221,81,394,123"/>
+<area shape="rect" id="node5" href="$structcv_1_1detail_1_1_projector_base.html" title="Base class for warping logic implementation." alt="" coords="218,5,397,32"/>
+</map>

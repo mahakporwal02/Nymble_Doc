@@ -1,0 +1,5 @@
+<map id="InductionSensorBuilder::SetInputCurrent" name="InductionSensorBuilder::SetInputCurrent">
+<area shape="rect" id="node1" title=" " alt="" coords="452,5,624,47"/>
+<area shape="rect" id="node2" href="$class_induction_sensor_reader.html#a2b7ea0898223702d02237c9e5c0df8b0" title=" " alt="" coords="232,5,404,47"/>
+<area shape="rect" id="node3" href="$class_base_induction_controller.html#a243f9dce30ca77d28fbcc3e2d7561299" title=" " alt="" coords="5,5,184,47"/>
+</map>
